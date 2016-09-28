@@ -1,14 +1,14 @@
 
 
 /*
- * 
+ *
  * RLStevenson CSS
  * ------------
- * 
+ *
  * Built by ExchangeRate-API with Bootstrap - inspired by
  * Hyde (https://github.com/mdo/hyde).
- * 
- * 
+ *
+ *
  * CSS SECTIONS
  *
  * Defaults
@@ -39,6 +39,7 @@ p {
 
 
 .content {
+	margin-top: 5em;
 	padding-left: 5em;
 }
 @media (max-width: 768px) {
@@ -116,7 +117,7 @@ p {
 		position: fixed;
 	}
 	.sidebar-content {
-		bottom: 1em;
+		top: 1em;
 		left: 1em;
 		right: 1em;
 		position: absolute;
@@ -198,7 +199,7 @@ p.attr {
 	color: #9a9a9a;
 }*/
 
-/* 
+/*
  * The original Hyde theme uses Base16 for colour schemes so
  * we decided to also use this project. We picked different
  * colors though. We also used the Ocean and 80's palettes in
@@ -238,7 +239,9 @@ p.attr {
 	color: #515151;
 }
 .scheme-lightbrown .content a {
-	color: #393939;
+	color: #0000FF;
+	text-decoration: underline;
+	text-underline-position: below;
 }
 .scheme-lightbrown .post .post-heading span {
 	color: #9a9a9a;

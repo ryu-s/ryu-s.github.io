@@ -6,13 +6,12 @@
 # For baseurl:
 # Use '' for / or '/your-dir' for another directory
 
-title:		RLStevenson
-description:	'A Bootstrap based clone of the Hyde theme by mdo.'
-freetext:	'Released under an MIT license - feel free to make pull requests.'
-baseurl:	'/rlstevenson'
-paginate:	3
+title:		コメビュとかツールとか
+description:	''
+freetext:	''
+baseurl:	''
 version:	0.1.0
-colorscheme:	scheme-gulfracing
+colorscheme:	'scheme-lightbrown'
 
 ga:		'UA-123-456'
 piwikSiteID:	''
@@ -23,8 +22,7 @@ author:
  name:		'ExchangeRate-API'
 
 github:
- repo:		https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme
+ repo:		https://github.com/ryu-s/ryu-s.github.io
 
-gems:		[jekyll-paginate]
 
 exclude:	['README.md', 'Gemfile.lock', 'Gemfile', '*.gemspec', '*.gem']

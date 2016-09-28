@@ -16,15 +16,6 @@
 			{% endfor %}
 		</ul>
 
-		<div class="sidebar-recent hidden-xs">
-			<p>Recent Posts:</p>
-			<ul>
-				{% for post in site.posts limit:5 %}
-				<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-				{% endfor %}
-			</ul>
-		</div>
-
 		<p class="copyright">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
 		<p class="attr">Powered by <a href="https://jekyllrb.com">Jekyll</a> &amp; <a href="https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme">RLStevenson</a> (inspired by <a href="https://github.com/poole/hyde">Hyde</a>).</p>
 

@@ -1,11 +1,8 @@
-- text: ExchangeRate-API
-  url: /
+- text: FRESH!コメントビューア
+  url: /app/freshcommentviewer
 
-- text: Jekyll
-  url: https://jekyllrb.com
+- text: OPENRECコメントビューア
+  url: /app/openreccommentviewer
 
-- text: Bootstrap
-  url: http://getbootstrap.com
-
-- text: Hyde
-  url: https://github.com/poole/hyde
+- text: ふわっちコメントビューア
+  url: /app/whowatchcommentviewer
