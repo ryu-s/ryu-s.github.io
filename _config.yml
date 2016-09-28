@@ -13,13 +13,13 @@ baseurl:	''
 version:	0.1.0
 colorscheme:	'scheme-lightbrown'
 
-ga:		'UA-123-456'
+ga:		'UA-84804281-1'
 piwikSiteID:	''
 piwikURL:	''
 
 author:
- url:		https://www.exchangerate-api.com
- name:		'ExchangeRate-API'
+ url:		https://ryu-s.github.io/
+ name:		'ryu-s'
 
 github:
  repo:		https://github.com/ryu-s/ryu-s.github.io
