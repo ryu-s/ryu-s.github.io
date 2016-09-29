@@ -26,3 +26,4 @@ github:
 
 
 exclude:	['README.md', 'Gemfile.lock', 'Gemfile', '*.gemspec', '*.gem']
+keep_files: ['BingSiteAuth.xml']
