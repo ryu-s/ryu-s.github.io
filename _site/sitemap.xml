@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+     
+  <url>
+    <loc>https://ryu-s.github.io/app/freshcommentviewer</loc>
+    
+        <lastmod>2016-09-30</lastmod>
+    
+    
+      <changefreq>weekly</changefreq>
+    
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+     
+  <url>
+    <loc>https://ryu-s.github.io/</loc>
+    
+        <lastmod>2016-09-30</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+     
+  <url>
+    <loc>https://ryu-s.github.io/app/openreccommentviewer</loc>
+    
+        <lastmod>2016-09-30</lastmod>
+    
+    
+      <changefreq>weekly</changefreq>
+    
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+     
+        
+     
+  <url>
+    <loc>https://ryu-s.github.io/sitemap.xml</loc>
+    
+        <lastmod>2016-09-30</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+     
+  <url>
+    <loc>https://ryu-s.github.io/app/whowatchcommentviewer</loc>
+    
+        <lastmod>2016-09-30</lastmod>
+    
+    
+      <changefreq>weekly</changefreq>
+    
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  
+</urlset>
