@@ -3,6 +3,9 @@ layout: page
 title: OPENRECコメントビューア
 author: ryu-s
 permalink: app/openreccommentviewer
+sitemap:
+    priority: 1.0
+    changefreq: 'weekly'	
 ---
 
 ## 最新版

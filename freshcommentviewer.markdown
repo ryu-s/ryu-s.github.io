@@ -2,7 +2,6 @@
 layout: page
 title: FRESH!コメントビューア
 author: ryu-s
-date: 2016-09-07
 permalink: app/freshcommentviewer
 sitemap:
     priority: 1.0
