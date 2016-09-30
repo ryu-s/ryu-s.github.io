@@ -18,11 +18,11 @@ piwikSiteID:	''
 piwikURL:	''
 
 author:
- url:		https://ryu-s.github.io/
- name:		'ryu-s'
+url: 'https://ryu-s.github.io'
+name: 'ryu-s'
 
 github:
- repo:		https://github.com/ryu-s/ryu-s.github.io
+repo:		https://github.com/ryu-s/ryu-s.github.io
 
 
 exclude:	['README.md', 'Gemfile.lock', 'Gemfile', '*.gemspec', '*.gem']

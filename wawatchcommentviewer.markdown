@@ -2,8 +2,10 @@
 layout: page
 title: ふわっちコメントビューア
 author: ryu-s
-date: 2016-09-28
 permalink: app/whowatchcommentviewer
+sitemap:
+    priority: 1.0
+    changefreq: 'weekly'	
 ---
 
 ## 最新版

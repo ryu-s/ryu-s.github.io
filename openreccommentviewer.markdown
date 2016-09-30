@@ -2,7 +2,6 @@
 layout: page
 title: OPENRECコメントビューア
 author: ryu-s
-date: 2016-09-28
 permalink: app/openreccommentviewer
 ---
 
