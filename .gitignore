@@ -3,4 +3,3 @@ Gemfile.lock
 .sass-cache
 *.gem
 *.gemspec
-presitemap.xml
