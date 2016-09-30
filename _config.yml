@@ -24,6 +24,5 @@ name: 'ryu-s'
 github:
 repo:		https://github.com/ryu-s/ryu-s.github.io
 
-
-exclude:	['README.md', 'Gemfile.lock', 'Gemfile', '*.gemspec', '*.gem','sitemap.xml']
-keep_files: ['BingSiteAuth.xml','sitemap.xml']
+exclude:	['README.md', 'Gemfile.lock', 'Gemfile', '*.gemspec', '*.gem']
+keep_files: ['BingSiteAuth.xml']
