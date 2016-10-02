@@ -8,5 +8,5 @@ Jekyll::Hooks.register :site, :pre_render do |site, payload|
 end
 Jekyll::Hooks.register :site, :post_write do |site, payload|
 #Just before rendering the whole site
-    FileUtils.cp('K:/Programming/workspace/ryu-s.github.io/_site/presitemap.xml','K:/Programming/workspace/ryu-s.github.io/sitemap.xml')
+    FileUtils.cp('K:/Programming/workspace/ryu-s.github.io/_site/sitemap.xml','K:/Programming/workspace/ryu-s.github.io/sitemap.xml')
 end
