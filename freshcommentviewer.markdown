@@ -10,7 +10,7 @@ sitemap:
 
 
 ## 最新版
-[v0.1.6](https://github.com/ryu-s/AbemaFreshCommentViewer/releases/download/v0.1.6/AbemaFreshCommentViewer_v0.1.6.zip)（2016/09/28）パフォーマンス向上。配信者のコメントにアイコンを付けてみた  
+[v0.1.7] (https://github.com/ryu-s/AbemaFreshCommentViewer/releases/download/v0.1.7/AbemaFreshCommentViewer_v0.1.7.zip)（2016/10/02）パフォーマンス向上。配信者のコメントにアイコンを付けてみた。不具合が起こる可能性があったため対応  
 
 ## 旧版
 [v0.1.4](https://github.com/ryu-s/AbemaFreshCommentViewer/releases/download/v0.1.4/AbemaFreshCommentViewer_v0.1.4.zip)（2016/09/25）HTML5コメジェネ連携プラグインを実装。v0.1.2の方が安定はしています。  
