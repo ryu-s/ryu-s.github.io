@@ -9,4 +9,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.6](https://github.com/ryu-s/OpenrecCommentViewer/releases/download/v0.0.6/OpenrecCommentViewer_v0.0.6.zip) （2016/10/18）棒読みちゃんに対応   
+[v0.0.7](https://github.com/ryu-s/OpenrecCommentViewer/releases/download/v0.0.7/OpenrecCommentViewer_v0.0.7.zip) （2016/10/23）棒読みちゃん、HTML5コメントジェネレータに対応   
