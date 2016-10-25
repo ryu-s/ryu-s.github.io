@@ -1,6 +1,8 @@
 ---
 layout: page
 title: ふわっちコメントビューア
+description: "ふわっちのコメントビューアです"
+keywords: "ふわっち, コメビュ, コメントビューア, コメントビューワ"
 author: ryu-s
 permalink: app/whowatchcommentviewer
 sitemap:

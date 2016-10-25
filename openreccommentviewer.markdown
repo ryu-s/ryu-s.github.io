@@ -1,6 +1,8 @@
 ---
 layout: page
 title: OPENRECコメントビューア
+description: "OPENREC.tvのコメントビューアです"
+keywords: "OPENREC.tv, コメビュ, コメントビューア, コメントビューワ"
 author: ryu-s
 permalink: app/openreccommentviewer
 sitemap:
