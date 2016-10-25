@@ -1,6 +1,8 @@
 ---
 layout: page
 title: FRESH!コメントビューア
+description: FRESH! by AbemaTVのコメントビューアです
+keywords: "FRESH!, Abema, コメビュ, コメントビューア, コメントビューワ"
 author: ryu-s
 permalink: app/freshcommentviewer
 sitemap:
