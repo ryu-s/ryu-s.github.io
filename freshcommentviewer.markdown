@@ -12,5 +12,5 @@ sitemap:
 
 
 ## 最新版
-[v0.1.11](https://github.com/ryu-s/AbemaFreshCommentViewer/releases/download/v0.1.11/AbemaFreshCommentViewer_v0.1.11.zip)（2016/10/26）未ログイン時の動作を修正  
+[v0.1.12](https://github.com/ryu-s/AbemaFreshCommentViewer/releases/download/v0.1.12/AbemaFreshCommentViewer_v0.1.12.zip)（2016/10/26）未ログイン時の動作を修正  
 
