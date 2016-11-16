@@ -12,4 +12,4 @@ sitemap:
 
 
 ## 最新版
-[v0.1.13](https://github.com/ryu-s/AbemaFreshCommentViewer/releases/download/v0.1.13/AbemaFreshCommentViewer_v0.1.13.zip)（2016/10/27）未ログイン時の動作を変更。フォント選択時のバグを修正  
+[v0.1.14](https://github.com/ryu-s/AbemaFreshCommentViewer/releases/download/v0.1.14/AbemaFreshCommentViewer_v0.1.14.zip)（2016/11/17）サーバとの接続が切れた場合にアプリが落ちる可能性のある不具合を修正  
