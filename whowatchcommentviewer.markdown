@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.3](https://github.com/ryu-s/WhowatchCommentViewer/releases/download/v0.2.3/WhowatchCommentViewer_v0.2.3.zip) （2016/10/24）配信者のテロップ投稿に対応。バグ修正  
+[v0.2.5](https://github.com/ryu-s/WhowatchCommentViewer/releases/download/v0.2.5/WhowatchCommentViewer_v0.2.5.zip) （2016/12/15）バグ修正  
