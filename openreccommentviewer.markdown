@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.11](https://github.com/ryu-s/OpenrecCommentViewer/releases/download/v0.0.11/OpenrecCommentViewer_v0.0.11.zip) （2016/11/03）仕様変更に対応   
+[v0.1.0](https://github.com/ryu-s/OpenrecCommentViewer/releases/download/v0.1.0/OpenrecCommentViewer_v0.1.0.zip)（2016/12/17）予約管理プラグイン追加、スタンプ等に対応  
