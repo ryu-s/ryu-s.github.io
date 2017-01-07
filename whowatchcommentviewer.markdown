@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.5](https://github.com/ryu-s/WhowatchCommentViewer/releases/download/v0.2.5/WhowatchCommentViewer_v0.2.5.zip) （2016/12/15）バグ修正  
+[v0.2.6](https://github.com/ryu-s/WhowatchCommentViewer/releases/download/v0.2.6/WhowatchCommentViewer_v0.2.6.zip) （2017/01/08）NGワードを含むコメントへの対応を追加  
