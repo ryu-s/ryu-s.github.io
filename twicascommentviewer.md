@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.2](https://github.com/ryu-s/Upload/releases/download/tc_v0.0.2/TwicasCommentViewer_v0.0.2.zip) （2017/02/03）グリッド線の太さを変更できるようにし、入力したURLの配信者IDを保存するようにした  
+[v0.0.3](https://github.com/ryu-s/Upload/releases/download/tc_v0.0.3/TwicasCommentViewer_v0.0.3.zip) （2017/02/06）丸いサムネと行間幅の変更に対応  
