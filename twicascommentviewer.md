@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.3](https://github.com/ryu-s/Upload/releases/download/tc_v0.0.3/TwicasCommentViewer_v0.0.3.zip) （2017/02/06）丸いサムネと行間幅の変更に対応  
+[v0.0.4](https://github.com/ryu-s/Upload/releases/download/tc_v0.0.4/TwicasCommentViewer_v0.0.4.zip) （2017/02/07）エラーログファイルの拡張子を変更  
