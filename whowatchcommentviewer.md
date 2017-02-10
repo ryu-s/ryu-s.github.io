@@ -11,5 +11,5 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.10](https://github.com/ryu-s/WhowatchCommentViewer/releases/download/v0.2.10/WhowatchCommentViewer_v0.2.10.zip) （2017/02/08）中抜き文字設定時でもアイテムコメントの文字色は色分けしないようにした  
+[v0.2.11](https://github.com/ryu-s/WhowatchCommentViewer/releases/download/v0.2.11/WhowatchCommentViewer_v0.2.11.zip) （2017/02/10）サムネの取得方法を改良  
 
