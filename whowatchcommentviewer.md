@@ -11,5 +11,5 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.11](https://github.com/ryu-s/WhowatchCommentViewer/releases/download/v0.2.11/WhowatchCommentViewer_v0.2.11.zip) （2017/02/10）サムネの取得方法を改良  
+[v0.2.12](https://github.com/ryu-s/WhowatchCommentViewer/releases/download/v0.2.12/WhowatchCommentViewer_v0.2.12.zip) （2017/02/16）リプライ時に相手の名前を表示するようにした  
 
