@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.1](https://github.com/ryu-s/Upload/releases/download/yt_v0.0.1/YoutubeLiveCommentViewer_v0.0.1.zip) （2017/02/26）コメントの閲覧と投稿が可能  
+[v0.0.2](https://github.com/ryu-s/Upload/releases/download/yt_v0.0.2/YoutubeLiveCommentViewer_v0.0.2.zip) （2017/03/06）コメントの閲覧と投稿が可能  
