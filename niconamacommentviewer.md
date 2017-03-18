@@ -11,5 +11,5 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.1](https://github.com/ryu-s/Upload/releases/download/nc_v0.0.1/NicoCommentViewer_v0.0.1.zip) （2017/02/12）最低限の機能を実装  
+[v0.0.2](https://github.com/ryu-s/Upload/releases/download/nc_v0.0.2/NicoCommentViewer_v0.0.2.zip) （2017/03/18）最低限の機能を実装  
 
