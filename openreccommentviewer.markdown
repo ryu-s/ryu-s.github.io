@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.1.0](https://github.com/ryu-s/OpenrecCommentViewer/releases/download/v0.1.0/OpenrecCommentViewer_v0.1.0.zip)（2016/12/17）予約管理プラグイン追加、スタンプ等に対応  
+[v0.1.1](https://github.com/ryu-s/OpenrecCommentViewer/releases/download/v0.1.1/OpenrecCommentViewer_v0.1.1.zip)（2017/03/19）Operaに対応  
