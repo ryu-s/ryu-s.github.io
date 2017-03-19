@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.4](https://github.com/ryu-s/Upload/releases/download/yt_v0.0.4/YoutubeLiveCommentViewer_v0.0.4.zip) （2017/03/19）投げ銭コメントに対応  
+[v0.0.5](https://github.com/ryu-s/Upload/releases/download/yt_v0.0.5/YoutubeLiveCommentViewer_v0.0.5.zip) （2017/03/20）投げ銭コメントに対応  
