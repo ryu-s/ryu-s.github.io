@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.3](https://github.com/ryu-s/Upload/releases/download/yt_v0.0.3/YoutubeLiveCommentViewer_v0.0.3.zip) （2017/03/10）棒読みちゃんとHTML5コメジェネのプラグインを実装  
+[v0.0.4](https://github.com/ryu-s/Upload/releases/download/yt_v0.0.4/YoutubeLiveCommentViewer_v0.0.4.zip) （2017/03/19）投げ銭コメントに対応  
