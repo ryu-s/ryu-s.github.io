@@ -10,4 +10,5 @@ sitemap:
     changefreq: 'weekly'	
 ---
 
-サイトの仕様変更があったため修正中です。今日中（2017/03/23）にリリースできると思います。  
+## 最新版
+[v0.0.6](https://github.com/ryu-s/Upload/releases/download/yt_v0.0.6/YoutubeLiveCommentViewer_v0.0.6.zip)（2017/03/23）サイトの仕様変更に対応  
