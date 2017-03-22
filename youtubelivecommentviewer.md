@@ -10,5 +10,4 @@ sitemap:
     changefreq: 'weekly'	
 ---
 
-## 最新版
-[v0.0.5](https://github.com/ryu-s/Upload/releases/download/yt_v0.0.5/YoutubeLiveCommentViewer_v0.0.5.zip) （2017/03/20）投げ銭コメントに対応  
+サイトの仕様変更があったため修正中です。今日中（2017/03/23）にリリースできると思います。  
