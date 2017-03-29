@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.6](https://github.com/ryu-s/Upload/releases/download/yt_v0.0.6/YoutubeLiveCommentViewer_v0.0.6.zip)（2017/03/23）サイトの仕様変更に対応  
+[v0.0.7](https://github.com/ryu-s/Upload/releases/download/yt_v0.0.7/YoutubeLiveCommentViewer_v0.0.7.zip)（2017/03/30）デフォルトの背景色・文字色を変更、  入力可能なURLの形式増やした  
