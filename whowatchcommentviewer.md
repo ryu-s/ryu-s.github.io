@@ -11,5 +11,5 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.13](https://github.com/ryu-s/WhowatchCommentViewer/releases/download/v0.2.13/WhowatchCommentViewer_v0.2.13.zip) （2017/03/02）複数アイテムを投げられるようになったためアイテム欄で投げた個数が表示されるようにした  
+[v0.2.14](https://github.com/ryu-s/WhowatchCommentViewer/releases/download/v0.2.14/WhowatchCommentViewer_v0.2.14.zip) （2017/04/05）最初の過去コメント取得時に取得したコメントを棒読みちゃんに読ませないようにした  
 
