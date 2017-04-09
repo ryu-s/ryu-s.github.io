@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.1.2](https://github.com/ryu-s/OpenrecCommentViewer/releases/download/v0.1.2/OpenrecCommentViewer_v0.1.2.zip)（2017/04/02）デフォルトの文字色と背景色の変更、経過時間表示、個々のリスナーのコメント数表示を追加  
+[v0.1.3](https://github.com/ryu-s/OpenrecCommentViewer/releases/download/v0.1.3/OpenrecCommentViewer_v0.1.3.zip)（2017/04/09）個別ユーザ情報の表示とコテハン登録機能を追加  
