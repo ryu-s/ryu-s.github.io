@@ -11,5 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.14](https://github.com/ryu-s/WhowatchCommentViewer/releases/download/v0.2.14/WhowatchCommentViewer_v0.2.14.zip) （2017/04/05）最初の過去コメント取得時に取得したコメントを棒読みちゃんに読ませないようにした  
-
+[v0.2.15](https://github.com/ryu-s/WhowatchCommentViewer/releases/download/v0.2.15/WhowatchCommentViewer_v0.2.15.zip) （2017/04/09）バグ修正  
