@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.1.3](https://github.com/ryu-s/OpenrecCommentViewer/releases/download/v0.1.3/OpenrecCommentViewer_v0.1.3.zip)（2017/04/09）個別ユーザ情報の表示とコテハン登録機能を追加  
+[v0.1.4](https://github.com/ryu-s/Upload/releases/download/op_v0.1.4/OpenrecCommentViewer_v0.1.4.zip)（2017/04/16）微細なバグを修正  
