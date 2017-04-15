@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.6](https://github.com/ryu-s/Upload/releases/download/tc_v0.0.6/TwicasCommentViewer_v0.0.6.zip) （2017/02/10）最新のコメントのサムネが表示されない場合がある問題を修正  
+[v0.0.7](https://github.com/ryu-s/Upload/releases/download/tc_v0.0.7/TwicasCommentViewer_v0.0.7.zip) （2017/04/16）バグ修正  
