@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.10](https://github.com/ryu-s/Upload/releases/download/yt_v0.0.10/YoutubeLiveCommentViewer_v0.0.10.zip)（2017/04/16）エラーメッセージを表示するようにした  
+[v0.0.11](https://github.com/ryu-s/Upload/releases/download/yt_v0.0.11/YoutubeLiveCommentViewer_v0.0.11.zip)（2017/04/18）バグ修正  
