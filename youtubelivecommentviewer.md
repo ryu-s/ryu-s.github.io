@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.11](https://github.com/ryu-s/Upload/releases/download/yt_v0.0.11/YoutubeLiveCommentViewer_v0.0.11.zip)（2017/04/18）バグ修正  
+[v0.1.0](http://int-main.ddo.jp/app/YoutubeLiveCommentViewer_v0.1.0.zip)（2017/05/07）自動アップデートに対応  
