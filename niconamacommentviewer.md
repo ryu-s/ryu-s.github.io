@@ -11,5 +11,5 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.4](http://int-main.ddo.jp/app/NicoCommentViewer_v0.0.4.zip) （2017/05/08）自動アップデートに対応  
+[v0.0.5](http://int-main.ddo.jp/app/NicoCommentViewer_v0.0.5.zip) （2017/05/08）自動アップデートに対応  
 
