@@ -11,5 +11,5 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.3](https://github.com/ryu-s/Upload/releases/download/nc_v0.0.3/NicoCommentViewer_v0.0.3.zip) （2017/05/04）「新しいコメントを上に追加する」を実装  
+[v0.0.4](http://int-main.ddo.jp/app/NicoCommentViewer_v0.0.4.zip) （2017/05/08）自動アップデートに対応  
 
