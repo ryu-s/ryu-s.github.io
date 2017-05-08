@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.1.4](https://github.com/ryu-s/Upload/releases/download/op_v0.1.4/OpenrecCommentViewer_v0.1.4.zip)（2017/04/16）微細なバグを修正  
+[v0.2.0](http://int-main.ddo.jp/app/OpenrecCommentViewer_v0.2.0.zip)（2017/05/09）自動アップデートに対応  
