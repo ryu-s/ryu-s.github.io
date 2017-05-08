@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.1](https://github.com/ryu-s/Upload/releases/download/bm_v0.0.1/BeamCommentViewer_v0.0.1.zip) （2017/04/23）最低限の機能を実装  
+[v0.0.2](http://int-main.ddo.jp/app/BeamCommentViewer_v0.0.2.zip) （2017/05/09）自動アップデートに対応  

@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.8](http://int-main.ddo.jp/app/TwicasCommentViewer_v0.0.8.zip) （2017/05/08）自動アップデートに対応  
+[v0.0.9](http://int-main.ddo.jp/app/TwicasCommentViewer_v0.0.9.zip) （2017/05/09）自動アップデートに対応  
