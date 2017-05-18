@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.10](http://int-main.ddo.jp/app/TwicasCommentViewer_v0.0.10.zip) （2017/05/13）自動アップデートができないバグを修正  
+[v0.1.0](http://int-main.ddo.jp/app/TwicasCommentViewer_v0.1.0.zip) （2017/05/18）アイコンが卵になってしまう問題を修正  
