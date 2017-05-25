@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.3](http://int-main.ddo.jp/app/OpenrecCommentViewer_v0.2.3.zip)（2017/05/25） デフォルトのフォントサイズを変更  
+[v0.2.4](http://int-main.ddo.jp/app/OpenrecCommentViewer_v0.2.4.zip)（2017/05/25） オフィシャルユーザーのアイコンが表示されない不具合を修正  
