@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.1.0](http://int-main.ddo.jp/app/BeamCommentViewer_v0.1.0.zip) （2017/05/13）絵文字に対応  
+仕様変更があったため、修正中です。（2017/05/26 06:00）
