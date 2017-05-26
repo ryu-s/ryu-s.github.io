@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.0](http://int-main.ddo.jp/app/mixerCommentViewer_v0.2.0.zip)（2017/05/26） サイトのドメイン変更、仕様変更に対応  
+[v0.2.1](http://int-main.ddo.jp/app/MixerCommentViewer_v0.2.1.zip)（2017/05/26） サイトのドメイン変更、仕様変更に対応  
