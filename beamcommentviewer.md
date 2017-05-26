@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Beamコメントビューア
-description: "Beamのコメントビューアです"
-keywords: "Beam, Beam.pro, コメビュ, コメントビューア, コメントビューワ"
+title: Mixerコメントビューア
+description: "Mixerのコメントビューアです"
+keywords: "Mixer, mixer.com, コメビュ, コメントビューア, コメントビューワ"
 author: ryu-s
 permalink: app/beamcommentviewer
 sitemap:
@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-仕様変更があったため、修正中です。（2017/05/26 06:00）
+[v0.2.0](http://int-main.ddo.jp/app/mixerCommentViewer_v0.2.0.zip)（2017/05/26） サイトのドメイン変更、仕様変更に対応  
