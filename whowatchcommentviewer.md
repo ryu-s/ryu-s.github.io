@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.3.0](http://int-main.ddo.jp/app/WhowatchCommentViewer_v0.3.0.zip) （2017/05/14）自動アップデートに対応  
+[v0.3.1](http://int-main.ddo.jp/app/WhowatchCommentViewer_v0.3.1.zip) （2017/06/02）サムネの表示方法を改良  
