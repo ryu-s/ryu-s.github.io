@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.1.7](http://int-main.ddo.jp/app/YoutubeLiveCommentViewer_v0.1.7.zip)（2017/06/03）バグレポートを自動的に送信するようにした  
+[v0.1.9](http://int-main.ddo.jp/app/YoutubeLiveCommentViewer_v0.1.9.zip)（2017/06/04）自動アップデートを改良  
