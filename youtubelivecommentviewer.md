@@ -11,4 +11,5 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.1](http://int-main.ddo.jp/app/YoutubeLiveCommentViewer_v0.2.1.zip)（2017/06/11）内部構造を刷新、bugfix  
+[v0.1.16](http://int-main.ddo.jp/app/YoutubeLiveCommentViewer_v0.1.16.zip)（2017/06/04）バグを修正  
+
