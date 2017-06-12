@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.3.2](http://int-main.ddo.jp/app/OpenrecCommentViewer_v0.3.2.zip)（2017/06/11） 内部構造を刷新、bugfix  
+[v0.3.3](http://int-main.ddo.jp/app/OpenrecCommentViewer_v0.3.3.zip)（2017/06/13） 内部構造を刷新、bugfix  
