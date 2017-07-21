@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.3.5](http://int-main.ddo.jp/app/OpenrecCommentViewer_v0.3.5.zip)（2017/06/22） bugfix  
+[v0.4.0](http://int-main.ddo.jp/app/OpenrecCommentViewer_v0.4.0.zip)（2017/07/22） 仕様変更に対応。NGユーザのコメントを棒読みちゃんに読ませないようにした  
