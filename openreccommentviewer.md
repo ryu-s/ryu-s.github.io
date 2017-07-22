@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.4.1](http://int-main.ddo.jp/app/OpenrecCommentViewer_v0.4.1.zip)（2017/07/22） bugfix  
+[v0.4.2](http://int-main.ddo.jp/app/OpenrecCommentViewer_v0.4.2.zip)（2017/07/23） 不正な放送IDを入力した際のエラーメッセージを追加  
