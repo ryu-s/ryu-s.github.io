@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.4.3](http://int-main.ddo.jp/app/OpenrecCommentViewer_v0.4.3.zip)（2017/07/24） 放送中に意図せず切断される問題を修正  
+[v0.4.4](http://int-main.ddo.jp/app/OpenrecCommentViewer_v0.4.4.zip)（2017/07/28） FireFoxを入れていない場合に起動直後に落ちてしまうバグを修正  
