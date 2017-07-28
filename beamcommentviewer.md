@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.4](http://int-main.ddo.jp/app/MixerCommentViewer_v0.2.4.zip)（2017/07/15） 正常に動作になくなっていたため対応  
+[v0.2.5](http://int-main.ddo.jp/app/MixerCommentViewer_v0.2.5.zip)（2017/07/29） 棒読みちゃん連携プラグインを実装  
