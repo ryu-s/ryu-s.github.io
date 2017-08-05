@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.13](http://int-main.ddo.jp/app/YoutubeLiveCommentViewer_v0.2.13.zip)（2017/07/23）バグを修正  
+[v0.2.14](http://int-main.ddo.jp/app/YoutubeLiveCommentViewer_v0.2.14.zip)（2017/08/05）一文字毎に半角スペースが入ってしまう問題にとりあえず対応  
