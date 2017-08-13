@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.19](http://int-main.ddo.jp/app/YoutubeLiveCommentViewer_v0.2.19.zip)（2017/08/12）エラー情報等をコメント欄に表示するようにしてみた  
+[v0.2.20](http://int-main.ddo.jp/app/YoutubeLiveCommentViewer_v0.2.20.zip)（2017/08/14）放送URLの末尾に&に続く属性が付加されている場合に正常にコメントが取得できない不具合を修正  
