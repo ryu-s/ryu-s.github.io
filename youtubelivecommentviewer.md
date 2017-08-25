@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.21](http://int-main.ddo.jp/app/YoutubeLiveCommentViewer_v0.2.21.zip)（2017/08/24）IEの仕様変更に対応  
+[v0.2.22](http://int-main.ddo.jp/app/YoutubeLiveCommentViewer_v0.2.22.zip)（2017/08/26）リモートホストの棒読みちゃんにも読んでもらえるようにした。その他bugfix  
