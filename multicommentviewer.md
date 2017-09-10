@@ -11,3 +11,5 @@ sitemap:
 ---
 
 ## 最新版
+[v0.0.1](http://int-main.ddo.jp/app/MultiCommentViewer_v0.0.1.zip)（2017/09/10） とりあえず作成。設定の保存変更機能、プラグイン機能無し。ふわっちのみ対応
+  
