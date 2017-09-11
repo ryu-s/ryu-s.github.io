@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.23](http://int-main.ddo.jp/app/YoutubeLiveCommentViewer_v0.2.23.zip)（2017/08/26）リモートホストの棒読みちゃんにも読んでもらえるようにした。その他bugfix  
+[v0.2.24](http://int-main.ddo.jp/app/YoutubeLiveCommentViewer_v0.2.24.zip)（2017/09/12）自動スクロール機能を若干改善  
