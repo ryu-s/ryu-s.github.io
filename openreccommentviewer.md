@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.4.4](http://int-main.ddo.jp/app/OpenrecCommentViewer_v0.4.4.zip)（2017/07/28） FireFoxを入れていない場合に起動直後に落ちてしまうバグを修正  
+[v0.4.5](http://int-main.ddo.jp/app/OpenrecCommentViewer_v0.4.5.zip)（2017/09/12） スタンプが貼られた時に音声ファイルを再生させられるようにした  
