@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.3.6](http://int-main.ddo.jp/app/WhowatchCommentViewer_v0.3.6.zip) （2017/09/14）自動スクロールとサムネの取得方法の改良  
+[v0.3.6](http://61.192.216.29/app/WhowatchCommentViewer_v0.3.6.zip) （2017/09/14）自動スクロールとサムネの取得方法の改良  

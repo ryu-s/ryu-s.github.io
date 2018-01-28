@@ -15,4 +15,4 @@ sitemap:
 タイムシフトには未対応です。  
 
 ## 最新版
-[v0.3.0](http://int-main.ddo.jp/app/AbemaFreshCommentViewer_v0.3.0.zip)（2017/05/14）自動アップデートに対応  
+[v0.3.0](http://61.192.216.29/app/AbemaFreshCommentViewer_v0.3.0.zip)（2017/05/14）自動アップデートに対応  

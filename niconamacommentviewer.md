@@ -11,5 +11,5 @@ sitemap:
 ---
 
 ## 最新版
-[v0.0.6](http://int-main.ddo.jp/app/NicoCommentViewer_v0.0.6.zip) （2017/05/23）アクティブの表示を追加  
+[v0.0.6](http://61.192.216.29/app/NicoCommentViewer_v0.0.6.zip) （2017/05/23）アクティブの表示を追加  
 

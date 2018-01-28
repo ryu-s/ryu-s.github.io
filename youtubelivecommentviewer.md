@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.24](http://int-main.ddo.jp/app/YoutubeLiveCommentViewer_v0.2.24.zip)（2017/09/12）自動スクロール機能を若干改善  
+[v0.2.24](http://61.192.216.29/app/YoutubeLiveCommentViewer_v0.2.24.zip)（2017/09/12）自動スクロール機能を若干改善  

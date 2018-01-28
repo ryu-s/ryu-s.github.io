@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.4.6](http://int-main.ddo.jp/app/OpenrecCommentViewer_v0.4.6.zip)（2017/09/13） エールもしくはスタンプが貼られた時に音声ファイルを再生させられるようにした  
+[v0.4.6](http://61.192.216.29/app/OpenrecCommentViewer_v0.4.6.zip)（2017/09/13） エールもしくはスタンプが貼られた時に音声ファイルを再生させられるようにした  
