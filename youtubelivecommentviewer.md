@@ -11,5 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-サーバが不調なため復旧中です。しばらくお待ちください。2018/02/06  
-<!--[v0.2.24](http://61.192.216.29/app/YoutubeLiveCommentViewer_v0.2.24.zip)（2017/09/12）自動スクロール機能を若干改善  -->
+[v0.2.25](http://int-main.net/app/YoutubeLiveCommentViewer_v0.2.25.zip)（2018/02/09）TLSの証明チェックを回避  
