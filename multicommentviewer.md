@@ -11,5 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-サーバが不調なため復旧中です。しばらくお待ちください。2018/02/06  
-<!--[v0.0.1](http://61.192.216.29/app/MultiCommentViewer_v0.0.1.zip)（2017/09/10） とりあえず作成。設定の保存変更機能、プラグイン機能無し。ふわっちのみ対応-->
+[v0.1.0](http://int-main.net/app/MultiCommentViewer_v0.1.0.zip)（2018/02/12） とりあえず作成。TwitchとYouTubeLiveのみ対応  
