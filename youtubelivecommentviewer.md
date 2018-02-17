@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.25](http://int-main.net/app/YoutubeLiveCommentViewer_v0.2.25.zip)（2018/02/09）TLSの証明チェックを回避  
+[v0.2.26](http://int-main.net/app/YoutubeLiveCommentViewer_v0.2.26.zip)（2018/02/17）コメントをリアルタイムで取れるように改良  
