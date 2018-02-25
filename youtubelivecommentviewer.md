@@ -11,7 +11,7 @@ sitemap:
 ---
 
 ## 安定版
-[v0.3.1](http://int-main.net/app/YoutubeLiveCommentViewer_v0.3.1.zip)（2018/02/26）内容を全面的に書き直した  
+[v0.3.2](http://int-main.net/app/YoutubeLiveCommentViewer_v0.3.2.zip)（2018/02/26）内容を全面的に書き直した  
   
 ## 旧版
 [v0.2.26](http://int-main.net/app/YoutubeLiveCommentViewer_v0.2.26.zip)（2018/02/17）コメントをリアルタイムで取れるように改良  
