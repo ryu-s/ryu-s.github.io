@@ -12,4 +12,4 @@ sitemap:
 
 ## 最新版
 <font color="#FF0000">このバージョンには棒読みちゃん連携プラグインが同梱されていません</font>
-[v0.1.4](http://int-main.net/app/TwicasCommentViewer_v0.1.4.zip) （2018/02/09）TLSの証明書チェックを回避  
+[v0.1.5](http://int-main.net/app/TwicasCommentViewer_v0.1.5.zip) （2018/03/02）仕様変更に対応  
