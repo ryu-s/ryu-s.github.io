@@ -11,7 +11,7 @@ sitemap:
 ---
 
 ## 最新版
-[v0.1.6](http://int-main.net/app/MultiCommentViewer_v0.1.6.zip)（2018/03/09）  Twitch,YouTubeLive,ニコ生,Twicasに対応。  
+[v0.1.7](http://int-main.net/app/MultiCommentViewer_v0.1.7.zip)（2018/03/10）  Twitch,YouTubeLive,ニコ生,Twicas,OPENRECに対応。  
 
-## アルファ版
+<!--## アルファ版-->
 <!--[v0.1.2](http://int-main.net/app/alpha/MultiCommentViewer_v0.1.2.zip)（2018/02/24） Twitch,YouTubeLive,ニコ生,Twicasに対応  -->
