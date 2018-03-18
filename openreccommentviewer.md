@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.4.7](http://int-main.net/app/OpenrecCommentViewer_v0.4.7.zip)（2018/02/09） 最大同時視聴数を表示するようにした  
+[v0.4.8](http://int-main.net/app/OpenrecCommentViewer_v0.4.8.zip)（2018/03/11） 初コメのフォント変更設定等追加  
