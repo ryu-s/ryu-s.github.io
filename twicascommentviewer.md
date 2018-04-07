@@ -11,7 +11,7 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.6](http://int-main.net/app/TwicasCommentViewer_v0.2.6.zip)（2018/03/31）内部を作り直した  
+[v0.2.7](http://int-main.net/app/TwicasCommentViewer_v0.2.7.zip)（2018/04/07）スペックの低いPCでも動作するように改良  
   
 ## 安定版
 <font color="#FF0000">このバージョンには棒読みちゃん連携プラグインが同梱されていません</font>  
