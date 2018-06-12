@@ -11,7 +11,7 @@ sitemap:
 ---
 
 ## 最新版
-[v0.3.9](http://int-main.net/app/YoutubeLiveCommentViewer_v0.3.9.zip)（2018/06/13） 表示する情報コメントのレベルを設定できるようにした  
+[v0.3.10](http://int-main.net/app/YoutubeLiveCommentViewer_v0.3.10.zip)（2018/06/13） 表示する情報コメントのレベルを設定できるようにした  
   
 ## 旧版
 [v0.2.26](http://int-main.net/app/YoutubeLiveCommentViewer_v0.2.26.zip)（2018/02/17）  
