@@ -11,7 +11,7 @@ sitemap:
 ---
 
 ## 最新版
-[v0.3.8](http://int-main.net/app/YoutubeLiveCommentViewer_v0.3.8.zip)（2018/06/10） 未ログインでコメントを取得した時に"メタデータの取得でエラーが発生"が大量に表示される不具合を修正  
+[v0.3.9](http://int-main.net/app/YoutubeLiveCommentViewer_v0.3.9.zip)（2018/06/13） 表示する情報コメントのレベルを設定できるようにした  
   
 ## 旧版
 [v0.2.26](http://int-main.net/app/YoutubeLiveCommentViewer_v0.2.26.zip)（2018/02/17）  
