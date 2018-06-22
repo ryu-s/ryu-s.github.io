@@ -11,7 +11,7 @@ sitemap:
 ---
 
 ## 最新版
-[v0.3.12](http://int-main.net/app/YoutubeLiveCommentViewer_v0.3.12.zip)（2018/06/21） URLに余分なクエリがついていても問題無いように修正  
+[v0.3.13](http://int-main.net/app/YoutubeLiveCommentViewer_v0.3.13.zip)（2018/06/23） 投げ銭の色変更に対応  
   
 ## 旧版
 [v0.2.26](http://int-main.net/app/YoutubeLiveCommentViewer_v0.2.26.zip)（2018/02/17）  
