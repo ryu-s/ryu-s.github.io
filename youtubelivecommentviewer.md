@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.3.13](http://int-main.net/app/YoutubeLiveCommentViewer_v0.3.13.zip)（2018/06/23） 投げ銭の色変更に対応  
+[v0.3.14](http://int-main.net/app/YoutubeLiveCommentViewer_v0.3.14.zip)（2018/06/24） コメント投稿ができなくなっていたため修正  
