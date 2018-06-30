@@ -14,4 +14,4 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
   
 ## 最新版
-[v0.3.14](http://int-main.net/app/YoutubeLiveCommentViewer_v0.3.14.zip)（2018/06/24） コメント投稿ができなくなっていたため修正  
+[v0.3.15](http://int-main.net/app/YoutubeLiveCommentViewer_v0.3.15.zip)（2018/06/30） 「コメントをコピー」と「URLを開く」を実装  
