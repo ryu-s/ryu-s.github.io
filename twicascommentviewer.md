@@ -11,7 +11,7 @@ sitemap:
 ---
 
 ## 最新版
-[v0.2.11](http://int-main.net/app/TwicasCommentViewer_v0.2.11.zip)（2018/04/13）コメント投稿に対応  
+[v0.2.13](http://int-main.net/app/TwicasCommentViewer_v0.2.13.zip)（2018/07/06）前回入力したURLを起動時に復元するようにした  
 
 <!--
 ## 安定版
