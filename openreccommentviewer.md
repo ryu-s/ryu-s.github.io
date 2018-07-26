@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.4.9](http://int-main.net/app/OpenrecCommentViewer_v0.4.9.zip)（2018/07/25） 仕様変更に一部対応  
+[v0.4.10](http://int-main.net/app/OpenrecCommentViewer_v0.4.10.zip)（2018/07/26） 仕様変更に対応  
