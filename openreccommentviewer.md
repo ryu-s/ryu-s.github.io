@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.4.12](http://int-main.net/app/OpenrecCommentViewer_v0.4.12.zip)（2018/08/04） 配信履歴に視聴者数が0の配信がある場合に問題が起きていたため修正  
+[v0.4.13](http://int-main.net/app/OpenrecCommentViewer_v0.4.13.zip)（2018/08/16） 仕様変更に対応  
