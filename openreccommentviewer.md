@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.4.13](http://int-main.net/app/OpenrecCommentViewer_v0.4.13.zip)（2018/08/16） 仕様変更に対応  
+[v0.4.14](http://int-main.net/app/OpenrecCommentViewer_v0.4.14.zip)（2018/08/16） 一部の放送のコメント取得で発生していた問題を修正  
