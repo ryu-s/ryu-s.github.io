@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.4.14](http://int-main.net/app/OpenrecCommentViewer_v0.4.14.zip)（2018/08/16） 一部の放送のコメント取得で発生していた問題を修正  
+[v0.4.15](http://int-main.net/app/OpenrecCommentViewer_v0.4.15.zip)（2018/08/17） チャンネルURLでコメントを取得できるようにした  
