@@ -14,4 +14,4 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
   
 ## 最新版
-[v0.3.18](http://int-main.net/app/YoutubeLiveCommentViewer_v0.3.18.zip)（2018/07/13） バグを修正  
+[v0.3.19](http://int-main.net/app/YoutubeLiveCommentViewer_v0.3.19.zip)（2018/10/29） ＠コテハンに対応  
