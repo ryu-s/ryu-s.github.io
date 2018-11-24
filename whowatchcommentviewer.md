@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.3.7](http://int-main.net/app/WhowatchCommentViewer_v0.3.7.zip) （2018/02/11）サムネが表示されなくなってしまっていた問題に対応  
+[v0.3.10](http://int-main.net/app/WhowatchCommentViewer_v0.3.10.zip) （2018/11/24）ふ:abcでコメントが取得できない問題を修正  
