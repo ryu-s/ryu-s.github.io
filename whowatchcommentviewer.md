@@ -11,4 +11,4 @@ sitemap:
 ---
 
 ## 最新版
-[v0.3.10](http://int-main.net/app/WhowatchCommentViewer_v0.3.10.zip) （2018/11/24）ふ:abcでコメントが取得できない問題を修正  
+[v0.3.11](http://int-main.net/app/WhowatchCommentViewer_v0.3.11.zip) （2019/01/10）アイテムが投げられた時に表示されない場合がある不具合を修正したつもり  
