@@ -14,4 +14,4 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
   
 ## 最新版
-[v0.3.21](http://int-main.net/app/YoutubeLiveCommentViewer_v0.3.21.zip)（2019/01/10） Enterキーでコメント投稿できるようにした  
+[v0.4.3](http://int-main.net/app/YoutubeLiveCommentViewer_v0.4.3.zip)（2019/02/12） bugfix  
