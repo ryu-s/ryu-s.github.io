@@ -10,6 +10,8 @@ sitemap:
     changefreq: 'weekly'	
 ---
 
+ツイキャスコメントビューアは廃止する予定です。同等機能のある[マルチコメントビューア](https://ryu-s.github.io/app/multicommentviewer)をご利用ください
+
 ## 最新版
 [v0.2.14](http://int-main.net/app/TwicasCommentViewer_v0.2.14.zip)（2018/07/31）コメントのコピー、URLを開くに対応  
 
