@@ -13,4 +13,4 @@ sitemap:
 YoutubeLiveコメントビューアは廃止する予定です。同等機能のある[マルチコメントビューア](https://ryu-s.github.io/app/multicommentviewer)をご利用ください
 
 ## 最新版
-[v0.4.3](http://int-main.net/app/YoutubeLiveCommentViewer_v0.4.3.zip)（2019/02/12） bugfix  
+[v0.4.4](http://int-main.net/app/YoutubeLiveCommentViewer_v0.4.4.zip)（2019/03/11） コメジェネにコテハンが反映されない問題を修正、同時視聴数を非表示にできるようにした  
