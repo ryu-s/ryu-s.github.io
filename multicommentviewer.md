@@ -9,7 +9,24 @@ sitemap:
     priority: 1.0
     changefreq: 'weekly'	
 ---
-[導入方法](https://github.com/CommentViewerCollection/MultiCommentViewer/wiki/%E5%B0%8E%E5%85%A5%E6%89%8B%E9%A0%86)  
+
+色んな配信サイトのコメントを取得できるコメントビューアです。  
+現在対応しているのは
+- YouTubeLive
+- Twitch
+- ニコ生
+- Twicas
+- OPENREC
+- LINELIVE
+- ふわっち
+- Mirrativ
+
+また、今後以下のサイトも対応予定です
+- Periscope
+- Mixer
+
+
+導入方法は[こちら](https://github.com/CommentViewerCollection/MultiCommentViewer/wiki/%E5%B0%8E%E5%85%A5%E6%89%8B%E9%A0%86)から  
 
 ## 最新版
 [v0.3.6](http://int-main.net/app/MultiCommentViewer_v0.3.6.zip)（2019/03/04）  Twitch,YouTubeLive,ニコ生,Twicas,OPENREC,LINELIVE,ふわっち,Mirrativに対応。  
