@@ -29,6 +29,10 @@ sitemap:
 導入方法は[こちら](https://github.com/CommentViewerCollection/MultiCommentViewer/wiki/%E5%B0%8E%E5%85%A5%E6%89%8B%E9%A0%86)から  
 
 ## 最新版
-[v0.3.6](http://int-main.net/app/MultiCommentViewer_v0.3.6.zip)（2019/03/04）  Twitch,YouTubeLive,ニコ生,Twicas,OPENREC,LINELIVE,ふわっち,Mirrativに対応。  
+[v0.3.9](http://int-main.net/app/MultiCommentViewer_v0.3.9.zip)（2019/03/04）  
+主な変更点
+- Twicasアイテムの表示に対応
+- サイト毎、接続毎に色を変更できるようにした
+- ふわっちのNGコメントを表示しないようにした
 
 <!--## アルファ版-->
