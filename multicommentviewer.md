@@ -31,7 +31,7 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 最新版
-[v0.3.15](http://int-main.net/app/MultiCommentViewer_v0.3.15.zip)（2019/04/30）  
+[v0.3.16](http://int-main.net/app/MultiCommentViewer_v0.3.16.zip)（2019/05/12）  
 主な変更点
 - Periscopeに対応
 - Periscopeの入退室メッセージを読み上げないようにできるようにした
