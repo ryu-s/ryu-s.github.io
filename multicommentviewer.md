@@ -31,11 +31,8 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 最新版
-[v0.3.18](http://int-main.net/app/MultiCommentViewer_v0.3.18.zip)（2019/05/19）  
+[v0.3.19](http://int-main.net/app/MultiCommentViewer_v0.3.19.zip)（2019/06/04）  
 主な変更点
-- Mirrativの入室メッセージを取得するしないを選べるようにした
-- メタデータビューのカラム幅を記憶させるようにした
-- コメジェネプラグインがcomment.xmlに書き込む時にファイルが使用中だとコメントが消えてしまう問題に対応
-- その他いくつかのバグを修正
+- いくつかのバグを修正
 
 <!--## アルファ版-->
