@@ -33,6 +33,7 @@ sitemap:
 ## 最新版
 [v0.3.21](http://int-main.net/app/MultiCommentViewer_v0.3.21.zip)（2019/06/24）  
 主な変更点
+- OBSでウインドウキャプチャできない不具合を修正
 - いくつかのバグを修正
 
 <!--## アルファ版-->
