@@ -31,7 +31,7 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 最新版
-[v0.3.20](http://int-main.net/app/MultiCommentViewer_v0.3.20.zip)（2019/06/16）  
+[v0.3.21](http://int-main.net/app/MultiCommentViewer_v0.3.21.zip)（2019/06/24）  
 主な変更点
 - いくつかのバグを修正
 
