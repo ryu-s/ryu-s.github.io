@@ -21,10 +21,10 @@ sitemap:
 - ふわっち
 - Mirrativ
 - Periscope
+- SHOWROOM
 
 また、今後以下のサイトも対応予定です
 - Mixer
-- SHOWROOM
 
 導入方法は[こちら](https://github.com/CommentViewerCollection/MultiCommentViewer/wiki/%E5%B0%8E%E5%85%A5%E6%89%8B%E9%A0%86)から  
   
@@ -36,4 +36,8 @@ sitemap:
 - OBSでウインドウキャプチャできない不具合を修正
 - いくつかのバグを修正
 
-<!--## アルファ版-->
+<!--ベータ版-->
+[v0.3.22b](http://int-main.net/app/MultiCommentViewer_Beta_v0.3.21.zip)（2019/07/01）  
+主な変更点
+- SHOWROOMに対応
+- いくつかのバグを修正
