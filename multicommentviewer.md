@@ -36,7 +36,7 @@ sitemap:
 - OBSでウインドウキャプチャできない不具合を修正
 - いくつかのバグを修正
 
-<!--ベータ版-->
+## ベータ版
 [v0.3.22b](http://int-main.net/app/MultiCommentViewer_Beta_v0.3.21.zip)（2019/07/01）  
 主な変更点
 - SHOWROOMに対応
