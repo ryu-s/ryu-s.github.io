@@ -37,7 +37,7 @@ sitemap:
 - いくつかのバグを修正
 
 ## ベータ版
-[v0.3.22b](http://int-main.net/app/MultiCommentViewer_Beta_v0.3.22b.zip)（2019/07/01）  
+[v0.3.22](http://int-main.net/app/MultiCommentViewer_Beta_v0.3.22.zip)（2019/07/01）  
 主な変更点
 - SHOWROOMに対応
 - いくつかのバグを修正
