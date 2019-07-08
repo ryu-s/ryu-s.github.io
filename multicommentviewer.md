@@ -37,7 +37,6 @@ sitemap:
 - いくつかのバグを修正
 
 ## ベータ版
-[v0.3.22](http://int-main.net/app/MultiCommentViewer_Beta_v0.3.22.zip)（2019/07/01）  
+[v0.3.23](http://int-main.net/app/MultiCommentViewer_Beta_v0.3.23.zip)（2019/07/03）  
 主な変更点
-- SHOWROOMに対応
-- いくつかのバグを修正
+- YouTubeLiveで放送開始から数分経たないとコメントを取得できない不具合を修正したつもり
