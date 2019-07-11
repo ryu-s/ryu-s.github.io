@@ -31,12 +31,12 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.3.21](http://int-main.net/app/MultiCommentViewer_v0.3.21.zip)（2019/06/24）  
+[v0.4.0](http://int-main.net/app/MultiCommentViewer_v0.4.0.zip)（2019/07/12）  
 主な変更点
-- OBSでウインドウキャプチャできない不具合を修正
-- いくつかのバグを修正
+- YouTubeLiveのチャンネルURLを入力した際に接続できない不具合を修正
 
 ## ベータ版
-[v0.3.23](http://int-main.net/app/MultiCommentViewer_Beta_v0.3.23.zip)（2019/07/03）  
+[v0.4.1](http://int-main.net/app/MultiCommentViewer_Beta_v0.4.1.zip)（2019/07/13）  
 主な変更点
 - YouTubeLiveで放送開始から数分経たないとコメントを取得できない不具合を修正したつもり
+- YouTubeLiveのチャンネルURLを入力した際に接続できない不具合を修正
