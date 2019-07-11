@@ -36,7 +36,7 @@ sitemap:
 - YouTubeLiveのチャンネルURLを入力した際に接続できない不具合を修正
 
 ## ベータ版
-[v0.4.1](http://int-main.net/app/MultiCommentViewer_Beta_v0.4.1.zip)（2019/07/13）  
+[v0.4.1](http://int-main.net/app/MultiCommentViewer_Beta_v0.4.1.zip)（2019/07/12）  
 主な変更点
 - YouTubeLiveで放送開始から数分経たないとコメントを取得できない不具合を修正したつもり
 - YouTubeLiveのチャンネルURLを入力した際に接続できない不具合を修正
