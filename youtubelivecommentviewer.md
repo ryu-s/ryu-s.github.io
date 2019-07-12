@@ -13,4 +13,4 @@ sitemap:
 YoutubeLiveコメントビューアは廃止する予定です。同等機能のある[マルチコメントビューア](https://ryu-s.github.io/app/multicommentviewer)をご利用ください
 
 ## 最新版
-[v0.4.6](http://int-main.net/app/YoutubeLiveCommentViewer_v0.4.6.zip)（2019/03/18） サーバーエラー発生時に自動再接続するようにした  
+[v0.4.7](http://int-main.net/app/YoutubeLiveCommentViewer_v0.4.7.zip)（2019/07/12） チャンネルURLで接続できない不具合を修正  
