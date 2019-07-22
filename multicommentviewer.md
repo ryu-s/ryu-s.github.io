@@ -31,11 +31,11 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.4.0](http://int-main.net/app/MultiCommentViewer_v0.4.0.zip)（2019/07/12）  
+[v0.5.0](http://int-main.net/app/MultiCommentViewer_v0.5.0.zip)（2019/07/23）  
 主な変更点
 - YouTubeLiveのチャンネルURLを入力した際に接続できない不具合を修正
 
 ## ベータ版
-[v0.4.2](http://int-main.net/app/MultiCommentViewer_Beta_v0.4.2.zip)（2019/07/17）  
+[v0.5.1](http://int-main.net/app/MultiCommentViewer_Beta_v0.5.1.zip)（2019/07/23）  
 主な変更点
 - 登録したコテハンが消えてしまう場合がある不具合を修正
