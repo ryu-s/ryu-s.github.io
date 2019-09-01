@@ -36,6 +36,9 @@ sitemap:
 - YouTubeLiveのチャンネルURLを入力した際に接続できない不具合を修正
 
 ## ベータ版
-[v0.5.1](http://int-main.net/app/MultiCommentViewer_Beta_v0.5.1.zip)（2019/07/23）  
+[v0.5.2](http://int-main.net/app/MultiCommentViewer_Beta_v0.5.2.zip)（2019/09/01）  
 主な変更点
 - 登録したコテハンが消えてしまう場合がある不具合を修正
+- Periscopeとの接続が意図せず切断された場合に自動的に再接続するようにした
+- SHOWROOMとの接続が意図せず切断された場合に自動的に再接続するようにした
+- ニコ生コメント取得時にコメジェネに「0コメ」と表示されてしまう問題を修正
