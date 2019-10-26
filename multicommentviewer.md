@@ -31,14 +31,15 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.0](http://int-main.net/app/MultiCommentViewer_v0.5.0.zip)（2019/07/23）  
-主な変更点
-- YouTubeLiveのチャンネルURLを入力した際に接続できない不具合を修正
-
-## ベータ版
-[v0.5.2](http://int-main.net/app/MultiCommentViewer_Beta_v0.5.2.zip)（2019/09/01）  
+[v0.5.3](http://int-main.net/app/MultiCommentViewer_v0.5.3.zip)（2019/10/26）  
 主な変更点
 - 登録したコテハンが消えてしまう場合がある不具合を修正
 - Periscopeとの接続が意図せず切断された場合に自動的に再接続するようにした
 - SHOWROOMとの接続が意図せず切断された場合に自動的に再接続するようにした
 - ニコ生コメント取得時にコメジェネに「0コメ」と表示されてしまう問題を修正
+- YouTubeLiveのメタデータ取得時の不具合を修正
+
+## ベータ版
+[v0.5.3](http://int-main.net/app/MultiCommentViewer_Beta_v0.5.3.zip)（2019/10/26）  
+主な変更点
+- YouTubeLiveのメタデータ取得時の不具合を修正
