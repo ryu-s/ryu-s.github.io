@@ -40,8 +40,7 @@ sitemap:
 - YouTubeLiveのメタデータ取得時の不具合を修正
 
 ## ベータ版
-[v0.5.5](http://int-main.net/app/MultiCommentViewer_Beta_v0.5.5.zip)（2019/11/06）  
+[v0.5.6](http://int-main.net/app/MultiCommentViewer_Beta_v0.5.6.zip)（2019/11/12）  
 主な変更点
-- Mixerのコメントをコメジェネに表示できるようにした
-- 「表示する情報のレベル」が正常に復元されない問題を修正
-- Mixerのwebsocketのデータの変換に失敗する場合があったため修正
+- Mixerの/api/v1/users/currentをデシリアライズする際の不具合を修正
+- ニコ生の仕様でコメントが重複する場合がある問題に対応
