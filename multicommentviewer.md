@@ -25,6 +25,7 @@ sitemap:
 
 また、今後以下のサイトも対応予定です
 - Mixer
+- Mildom
 
 導入方法は[こちら](https://github.com/CommentViewerCollection/MultiCommentViewer/wiki/%E5%B0%8E%E5%85%A5%E6%89%8B%E9%A0%86)から  
   
@@ -40,7 +41,7 @@ sitemap:
 - YouTubeLiveのメタデータ取得時の不具合を修正
 
 ## ベータ版
-[v0.5.6](http://int-main.net/app/MultiCommentViewer_Beta_v0.5.6.zip)（2019/11/12）  
+[v0.5.7](http://int-main.net/app/MultiCommentViewer_Beta_v0.5.7.zip)（2019/12/09）  
 主な変更点
-- Mixerの/api/v1/users/currentをデシリアライズする際の不具合を修正
-- ニコ生の仕様でコメントが重複する場合がある問題に対応
+- Mildomに対応
+- 棒読みちゃんをコメビュ起動時に一緒に起動させられるようにした
