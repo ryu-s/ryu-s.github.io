@@ -32,7 +32,7 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.3](http://int-main.net/app/MultiCommentViewer_v0.5.3.zip)（2019/10/26）  
+[v0.5.3](http://int-main.net/app/MultiCommentViewer_v0.5.3_stable.zip)（2019/10/26）  
 主な変更点
 - 登録したコテハンが消えてしまう場合がある不具合を修正
 - Periscopeとの接続が意図せず切断された場合に自動的に再接続するようにした
@@ -41,7 +41,8 @@ sitemap:
 - YouTubeLiveのメタデータ取得時の不具合を修正
 
 ## ベータ版
-[v0.5.7](http://int-main.net/app/MultiCommentViewer_Beta_v0.5.7.zip)（2019/12/09）  
+[v0.5.8](http://int-main.net/app/MultiCommentViewer_v0.5.8_beta.zip)（2019/12/11）  
 主な変更点
 - Mildomに対応
 - 棒読みちゃんをコメビュ起動時に一緒に起動させられるようにした
+- 不具合を修正
