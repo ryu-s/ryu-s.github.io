@@ -22,23 +22,22 @@ sitemap:
 - Mirrativ
 - Periscope
 - SHOWROOM
-
-また、今後以下のサイトも対応予定です
 - Mixer
 - Mildom
+
+また、今後以下のサイトも対応予定です
+- NimoTV
 
 導入方法は[こちら](https://github.com/CommentViewerCollection/MultiCommentViewer/wiki/%E5%B0%8E%E5%85%A5%E6%89%8B%E9%A0%86)から  
   
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.3](http://int-main.net/app/MultiCommentViewer_v0.5.3_stable.zip)（2019/10/26）  
+[v0.5.8](http://int-main.net/app/MultiCommentViewer_v0.5.8_stable.zip)（2019/12/20）  
 主な変更点
-- 登録したコテハンが消えてしまう場合がある不具合を修正
-- Periscopeとの接続が意図せず切断された場合に自動的に再接続するようにした
-- SHOWROOMとの接続が意図せず切断された場合に自動的に再接続するようにした
-- ニコ生コメント取得時にコメジェネに「0コメ」と表示されてしまう問題を修正
-- YouTubeLiveのメタデータ取得時の不具合を修正
+- Mildomに対応
+- 棒読みちゃんをコメビュ起動時に一緒に起動させられるようにした
+- 不具合を修正
 
 ## ベータ版
 [v0.5.8](http://int-main.net/app/MultiCommentViewer_v0.5.8_beta.zip)（2019/12/11）  
