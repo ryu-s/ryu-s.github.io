@@ -33,15 +33,13 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.8](http://int-main.net/app/MultiCommentViewer_v0.5.8_stable.zip)（2019/12/20）  
+[v0.5.9](http://int-main.net/app/MultiCommentViewer_v0.5.9_stable.zip)（2020/01/04）  
 主な変更点
-- Mildomに対応
-- 棒読みちゃんをコメビュ起動時に一緒に起動させられるようにした
-- 不具合を修正
+- Mildomでコメントを取得できない場合があったため修正
+- Twitchのユーザー名が二重で読まれてしまう不具合を修正
 
 ## ベータ版
-[v0.5.8](http://int-main.net/app/MultiCommentViewer_v0.5.8_beta.zip)（2019/12/11）  
+[v0.5.9](http://int-main.net/app/MultiCommentViewer_v0.5.9_beta.zip)（2020/01/04）  
 主な変更点
-- Mildomに対応
-- 棒読みちゃんをコメビュ起動時に一緒に起動させられるようにした
-- 不具合を修正
+- Mildomでコメントを取得できない場合があったため修正
+- Twitchのユーザー名が二重で読まれてしまう不具合を修正
