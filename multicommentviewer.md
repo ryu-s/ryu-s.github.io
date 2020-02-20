@@ -33,13 +33,12 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.9](http://int-main.net/app/MultiCommentViewer_v0.5.9_stable.zip)（2020/01/04）  
+[v0.5.12](http://int-main.net/app/MultiCommentViewer_v0.5.12_stable.zip)（2020/02/14）  
 主な変更点
-- Mildomでコメントを取得できない場合があったため修正
-- Twitchのユーザー名が二重で読まれてしまう不具合を修正
+- Chromeの仕様変更に対応
 
 ## ベータ版
-[v0.5.9](http://int-main.net/app/MultiCommentViewer_v0.5.9_beta.zip)（2020/01/04）  
+[v0.5.12](http://int-main.net/app/MultiCommentViewer_v0.5.12_beta.zip)（2020/02/14）  
 主な変更点
-- Mildomでコメントを取得できない場合があったため修正
-- Twitchのユーザー名が二重で読まれてしまう不具合を修正
+- Chromeの仕様変更に対応
+- YouTubeの仕様変更に対応
