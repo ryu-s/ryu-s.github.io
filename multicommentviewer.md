@@ -39,6 +39,6 @@ sitemap:
 - Mirrativの仕様変更に対応
 
 ## ベータ版
-[v0.5.13](http://int-main.net/app/MultiCommentViewer_v0.5.13_beta.zip)（2020/02/22）  
+[v0.5.14](http://int-main.net/app/MultiCommentViewer_v0.5.14_beta.zip)（2020/02/26）  
 主な変更点
-- Mirrativの仕様変更に対応
+- コメビュが突然落ちる可能性を少し減らした
