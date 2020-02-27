@@ -39,6 +39,6 @@ sitemap:
 - Mirrativの仕様変更に対応
 
 ## ベータ版
-[v0.5.14](http://int-main.net/app/MultiCommentViewer_v0.5.14_beta.zip)（2020/02/26）  
+[v0.5.15](http://int-main.net/app/MultiCommentViewer_v0.5.15_beta.zip)（2020/02/28）  
 主な変更点
-- コメビュが突然落ちる可能性を少し減らした
+- ChromeのCookieを取得する際のエラー処理方法を改良
