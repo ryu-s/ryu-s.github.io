@@ -33,11 +33,11 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.15](http://int-main.net/app/MultiCommentViewer_v0.5.15_stable.zip)（2020/02/28）  
+[v0.5.16](http://int-main.net/app/MultiCommentViewer_v0.5.16_stable.zip)（2020/02/29）  
 主な変更点
-- ChromeのCookieを取得する際のエラー処理方法を改良
+- ChromeのCookieを取得する方法を改良
 
 ## ベータ版
-[v0.5.15](http://int-main.net/app/MultiCommentViewer_v0.5.15_beta.zip)（2020/02/28）  
+[v0.5.16](http://int-main.net/app/MultiCommentViewer_v0.5.16_beta.zip)（2020/02/29）  
 主な変更点
-- ChromeのCookieを取得する際のエラー処理方法を改良
+- ChromeのCookieを取得する方法を改良
