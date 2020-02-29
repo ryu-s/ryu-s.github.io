@@ -38,6 +38,7 @@ sitemap:
 - ChromeのCookieを取得する方法を改良
 
 ## ベータ版
-[v0.5.16](http://int-main.net/app/MultiCommentViewer_v0.5.16_beta.zip)（2020/02/29）  
+[v0.5.17](http://int-main.net/app/MultiCommentViewer_v0.5.17_beta.zip)（2020/02/29）  
 主な変更点
-- ChromeのCookieを取得する方法を改良
+- Chromium版のEdgeに対応
+- IEへの対応を廃止
