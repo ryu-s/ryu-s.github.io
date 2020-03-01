@@ -38,7 +38,6 @@ sitemap:
 - ChromeのCookieを取得する方法を改良
 
 ## ベータ版
-[v0.5.17](http://int-main.net/app/MultiCommentViewer_v0.5.17_beta.zip)（2020/02/29）  
+[v0.5.18](http://int-main.net/app/MultiCommentViewer_v0.5.18_beta.zip)（2020/03/01）  
 主な変更点
-- Chromium版のEdgeに対応
-- IEへの対応を廃止
+- ツイキャスで新しい枠が始まるとコメントが取得できなくなる不具合を修正
