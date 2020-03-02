@@ -33,11 +33,13 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.16](http://int-main.net/app/MultiCommentViewer_v0.5.16_stable.zip)（2020/02/29）  
-主な変更点
-- ChromeのCookieを取得する方法を改良
-
-## ベータ版
-[v0.5.18](http://int-main.net/app/MultiCommentViewer_v0.5.18_beta.zip)（2020/03/01）  
+[v0.5.19](http://int-main.net/app/MultiCommentViewer_v0.5.19_stable.zip)（2020/03/03）  
 主な変更点
 - ツイキャスで新しい枠が始まるとコメントが取得できなくなる不具合を修正
+- ツイキャスの仕様変更に対応
+
+## ベータ版
+[v0.5.19](http://int-main.net/app/MultiCommentViewer_v0.5.19_beta.zip)（2020/03/03）  
+主な変更点
+- ツイキャスで新しい枠が始まるとコメントが取得できなくなる不具合を修正
+- ツイキャスの仕様変更に対応
