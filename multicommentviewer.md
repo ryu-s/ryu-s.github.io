@@ -39,7 +39,6 @@ sitemap:
 - ツイキャスの仕様変更に対応
 
 ## ベータ版
-[v0.5.19](http://int-main.net/app/MultiCommentViewer_v0.5.19_beta.zip)（2020/03/03）  
+[v0.5.20](http://int-main.net/app/MultiCommentViewer_v0.5.20_beta.zip)（2020/03/10）  
 主な変更点
-- ツイキャスで新しい枠が始まるとコメントが取得できなくなる不具合を修正
-- ツイキャスの仕様変更に対応
+- YouTubeLiveでサーバーとの接続が切れた時の処理を修正
