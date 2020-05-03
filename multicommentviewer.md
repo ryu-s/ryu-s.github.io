@@ -38,6 +38,6 @@ sitemap:
 - YouTubeLiveでサーバーとの接続が切れた時の処理を修正
 
 ## ベータ版
-[v0.5.21](http://int-main.net/app/MultiCommentViewer_v0.5.21_beta.zip)（2020/03/19）  
+[v0.5.22](http://int-main.net/app/MultiCommentViewer_v0.5.22_beta.zip)（2020/05/03）  
 主な変更点
-- LINELIVEの仕様変更に対応
+- Periscopeの仕様変更に対応
