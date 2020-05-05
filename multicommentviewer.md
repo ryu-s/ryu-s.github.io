@@ -33,9 +33,9 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.20](http://int-main.net/app/MultiCommentViewer_v0.5.20_stable.zip)（2020/03/20）  
+[v0.5.22](http://int-main.net/app/MultiCommentViewer_v0.5.22_stable.zip)（2020/05/06）  
 主な変更点
-- YouTubeLiveでサーバーとの接続が切れた時の処理を修正
+- Periscopeの仕様変更に対応
 
 ## ベータ版
 [v0.5.23](http://int-main.net/app/MultiCommentViewer_v0.5.23_beta.zip)（2020/05/06）  
