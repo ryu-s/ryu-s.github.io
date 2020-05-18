@@ -38,6 +38,6 @@ sitemap:
 - Periscopeの仕様変更に対応
 
 ## ベータ版
-[v0.5.23](http://int-main.net/app/MultiCommentViewer_v0.5.23_beta.zip)（2020/05/06）  
+[v0.5.25](http://int-main.net/app/MultiCommentViewer_v0.5.25_beta.zip)（2020/05/19）  
 主な変更点
-- 接続一覧のカラムの並び順と幅を記憶するようにした
+- Twicasの仕様変更に対応
