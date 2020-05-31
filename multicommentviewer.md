@@ -33,11 +33,11 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.22](http://int-main.net/app/MultiCommentViewer_v0.5.22_stable.zip)（2020/05/06）  
-主な変更点
-- Periscopeの仕様変更に対応
-
-## ベータ版
-[v0.5.25](http://int-main.net/app/MultiCommentViewer_v0.5.25_beta.zip)（2020/05/19）  
+[v0.5.25](http://int-main.net/app/MultiCommentViewer_v0.5.25_stable.zip)（2020/05/31）  
 主な変更点
 - Twicasの仕様変更に対応
+
+## ベータ版
+[v0.5.26](http://int-main.net/app/MultiCommentViewer_v0.5.26_beta.zip)（2020/05/31）  
+主な変更点
+- コメジェネプラグインをSHOWROOMに対応させた
