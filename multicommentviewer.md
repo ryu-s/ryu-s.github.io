@@ -38,6 +38,6 @@ sitemap:
 - Twicasの仕様変更に対応
 
 ## ベータ版
-[v0.5.26](http://int-main.net/app/MultiCommentViewer_v0.5.26_beta.zip)（2020/05/31）  
+[v0.5.27](http://int-main.net/app/MultiCommentViewer_v0.5.27_beta.zip)（2020/06/04）  
 主な変更点
-- コメジェネプラグインをSHOWROOMに対応させた
+- 接続欄のブラウザを変更してもログインユーザ名が変化しない不具合を修正
