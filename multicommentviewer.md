@@ -38,6 +38,7 @@ sitemap:
 - Twicasの仕様変更に対応
 
 ## ベータ版
-[v0.5.27](http://int-main.net/app/MultiCommentViewer_v0.5.27_beta.zip)（2020/06/04）  
+[v0.5.28](http://int-main.net/app/MultiCommentViewer_v0.5.28_beta.zip)（2020/07/05）  
 主な変更点
-- 接続欄のブラウザを変更してもログインユーザ名が変化しない不具合を修正
+- OPENRECのエールとスタンプを表示するようにした
+- ニコ生で生IDでコメントした人のサムネを表示するようにした
