@@ -33,12 +33,11 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.25](http://int-main.net/app/MultiCommentViewer_v0.5.25_stable.zip)（2020/05/31）  
+[v0.5.29](http://int-main.net/app/MultiCommentViewer_v0.5.29_stable.zip)（2020/08/30）  
 主な変更点
-- Twicasの仕様変更に対応
+- Mildomで非ログインユーザーが定形コメントを投稿した場合に起こる不具合に対応
 
 ## ベータ版
-[v0.5.28](http://int-main.net/app/MultiCommentViewer_v0.5.28_beta.zip)（2020/07/05）  
+[v0.5.29](http://int-main.net/app/MultiCommentViewer_v0.5.29_beta.zip)（2020/08/30）  
 主な変更点
-- OPENRECのエールとスタンプを表示するようにした
-- ニコ生で生IDでコメントした人のサムネを表示するようにした
+- Mildomで非ログインユーザーが定形コメントを投稿した場合に起こる不具合に対応
