@@ -26,7 +26,7 @@ sitemap:
 - Mildom
 
 また、今後以下のサイトも対応予定です
-- NimoTV
+- BIGOLIVE
 
 導入方法は[こちら](https://github.com/CommentViewerCollection/MultiCommentViewer/wiki/%E5%B0%8E%E5%85%A5%E6%89%8B%E9%A0%86)から  
   
