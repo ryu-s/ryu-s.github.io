@@ -33,11 +33,11 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.29](http://int-main.net/app/MultiCommentViewer_v0.5.29_stable.zip)（2020/08/30）  
+[v0.5.29](https://int-main.net/app/MultiCommentViewer_v0.5.29_stable.zip)（2020/08/30）  
 主な変更点
 - Mildomで非ログインユーザーが定形コメントを投稿した場合に起こる不具合に対応
 
 ## ベータ版
-[v0.5.29](http://int-main.net/app/MultiCommentViewer_v0.5.29_beta.zip)（2020/08/30）  
+[v0.5.29](https://int-main.net/app/MultiCommentViewer_v0.5.29_beta.zip)（2020/08/30）  
 主な変更点
 - Mildomで非ログインユーザーが定形コメントを投稿した場合に起こる不具合に対応
