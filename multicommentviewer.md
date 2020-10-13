@@ -33,11 +33,13 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.29](https://int-main.net/app/MultiCommentViewer_v0.5.29_stable.zip)（2020/08/30）  
+[v0.5.30](https://int-main.net/app/MultiCommentViewer_v0.5.30_stable.zip)（2020/10/10）  
 主な変更点
-- Mildomで非ログインユーザーが定形コメントを投稿した場合に起こる不具合に対応
+- バグ修正
 
 ## ベータ版
-[v0.5.29](https://int-main.net/app/MultiCommentViewer_v0.5.29_beta.zip)（2020/08/30）  
+[v0.5.31](https://int-main.net/app/MultiCommentViewer_v0.5.31_beta.zip)（2020/10/10）  
 主な変更点
-- Mildomで非ログインユーザーが定形コメントを投稿した場合に起こる不具合に対応
+- バグ修正
+- BIGO LIVEのコメントを取得できるようにした
+- 英語コメントを日本語に翻訳するボタンを追加
