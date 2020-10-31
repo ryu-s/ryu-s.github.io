@@ -33,13 +33,11 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-<font color="red">サーバーメンテナンスのため11/1、0~6時の間、ダウンロードができない可能性があります</font><br>
 [v0.5.30](https://int-main.net/app/MultiCommentViewer_v0.5.30_stable.zip)（2020/10/10）  
 主な変更点
 - バグ修正
 
 ## ベータ版
-<font color="red">サーバーメンテナンスのため11/1、0~6時の間、ダウンロードができない可能性があります</font><br>
 [v0.5.31](https://int-main.net/app/MultiCommentViewer_v0.5.31_beta.zip)（2020/10/10）  
 主な変更点
 - バグ修正
