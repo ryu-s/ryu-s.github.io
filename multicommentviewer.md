@@ -38,8 +38,7 @@ sitemap:
 - バグ修正
 
 ## ベータ版
-[v0.5.31](https://int-main.net/app/MultiCommentViewer_v0.5.31_beta.zip)（2020/10/10）  
+[v0.5.33](https://int-main.net/app/MultiCommentViewer_v0.5.33_beta.zip)（2020/11/13）  
 主な変更点
-- バグ修正
-- BIGO LIVEのコメントを取得できるようにした
-- 英語コメントを日本語に翻訳するボタンを追加
+- 未ログイン時にニコ生のコメントが取得できない不具合を修正
+- YouTubeの経過時間を取得するロジックを変更
