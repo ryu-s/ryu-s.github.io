@@ -33,9 +33,10 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.30](https://int-main.net/app/MultiCommentViewer_v0.5.30_stable.zip)（2020/10/10）  
+[v0.5.33](https://int-main.net/app/MultiCommentViewer_v0.5.33_stable.zip)（2020/11/29）  
 主な変更点
-- バグ修正
+- ニコ生でゲストログインした時にコメントが取得できなくなっていたため修正
+- YouTubeLiveの経過時間を正確に表示するようにした
 
 ## ベータ版
 [v0.5.34](https://int-main.net/app/MultiCommentViewer_v0.5.34_beta.zip)（2020/12/01）  
