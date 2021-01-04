@@ -39,6 +39,7 @@ sitemap:
 - YouTubeLiveの経過時間を正確に表示するようにした
 
 ## ベータ版
-[v0.5.34](https://int-main.net/app/MultiCommentViewer_v0.5.34_beta.zip)（2020/12/01）  
+[v0.5.35](https://int-main.net/app/MultiCommentViewer_v0.5.35_beta.zip)（2021/01/05）  
 主な変更点
-- YouTubeLiveのチャンネルURLから配信IDを取得する方法を改良
+- SHOWROOMのコメントを棒読みちゃんに読んでもらえるようにした
+- BIGOLIVEにある程度対応した
