@@ -33,12 +33,8 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.37](https://int-main.net/app/MultiCommentViewer_v0.5.37_stable.zip)（2021/01/12）  
+[v0.5.33](https://int-main.net/app/MultiCommentViewer_v0.5.33_stable.zip)（2021/01/12）  
 主な変更点
-- YouTubeLiveの仕様変更に対応した
-- YouTubeLiveのチャンネルURLから配信IDを取得する方法を改良
-- SHOWROOMのコメントを棒読みちゃんに読んでもらえるようにした
-- BIGOLIVEにある程度対応した
 
 ## ベータ版
 [v0.5.37b](https://int-main.net/app/MultiCommentViewer_v0.5.37_beta.zip)（2021/01/12）  
