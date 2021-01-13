@@ -37,7 +37,7 @@ sitemap:
 主な変更点
 
 ## ベータ版
-[v0.5.37b](https://int-main.net/app/MultiCommentViewer_v0.5.37_beta.zip)（2021/01/12）  
+[v0.5.39](https://int-main.net/app/MultiCommentViewer_v0.5.39_beta.zip)（2021/01/13）  
 主な変更点
 - YouTubeLiveの仕様変更に対応した
 - 翻訳機能を使用した際にコメビュが落ちる場合があったため修正
