@@ -33,7 +33,7 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.33](https://int-main.net/app/MultiCommentViewer_v0.5.33_stable.zip)（2021/01/12）  
+[v0.5.33](https://int-main.net:8081/app/MultiCommentViewer_v0.5.33_stable.zip)（2021/01/12）  
 主な変更点
 
 ## ベータ版
