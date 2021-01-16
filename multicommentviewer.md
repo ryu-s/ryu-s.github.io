@@ -37,6 +37,6 @@ sitemap:
 主な変更点
 
 ## ベータ版
-[v0.5.41](https://int-main.net:8081/app/MultiCommentViewer_v0.5.41_beta.zip)（2021/01/16）  
+[v0.5.43](https://int-main.net:8081/app/MultiCommentViewer_v0.5.43_beta.zip)（2021/01/16）  
 主な変更点
-- YouTubeLiveの自動再接続機能を強化
+- YouTubeLiveのコメント取得の安定性を向上
