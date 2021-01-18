@@ -37,6 +37,8 @@ sitemap:
 主な変更点
 
 ## ベータ版
-[v0.5.43](https://int-main.net/app/MultiCommentViewer_v0.5.43_beta.zip)（2021/01/16）  
+[v0.5.45](https://int-main.net/app/MultiCommentViewer_v0.5.45_beta.zip)（2021/01/19）  
 主な変更点
-- YouTubeLiveのコメント取得の安定性を向上
+- YouTubeの高評価・低評価が再び表示されるようになった
+- YouTubeでSpecChangedExceptionが発生した場合に即座に切断するようにした
+- YouTube StudioのURLに対応
