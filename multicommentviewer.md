@@ -33,12 +33,11 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.33](https://int-main.net/app/MultiCommentViewer_v0.5.33_stable.zip)（2021/01/12）  
+[v0.5.46](https://int-main.net/app/MultiCommentViewer_v0.5.46_stable.zip)（2021/01/25）  
 主な変更点
-
+- YouTubeLiveの仕様変更に対応
+- ニコ生の仕様変更に対応
 ## ベータ版
-[v0.5.45](https://int-main.net/app/MultiCommentViewer_v0.5.45_beta.zip)（2021/01/19）  
+[v0.5.46](https://int-main.net/app/MultiCommentViewer_v0.5.46_beta.zip)（2021/01/25）  
 主な変更点
-- YouTubeの高評価・低評価が再び表示されるようになった
-- YouTubeでSpecChangedExceptionが発生した場合に即座に切断するようにした
-- YouTube StudioのURLに対応
+- ニコ生の仕様変更に対応
