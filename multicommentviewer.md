@@ -38,6 +38,6 @@ sitemap:
 - ニコ生の仕様変更に対応
 
 ## ベータ版
-[v0.5.48](https://int-main.net/app/MultiCommentViewer_v0.5.48_beta.zip)（2021/01/28）  
+[v0.5.50](https://int-main.net/app/MultiCommentViewer_v0.5.50_beta.zip)（2021/01/31）  
 主な変更点
-- ニコ生の仕様変更に対応
+- YouTubeの仕様変更に対応

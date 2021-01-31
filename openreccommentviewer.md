@@ -10,7 +10,4 @@ sitemap:
     changefreq: 'weekly'	
 ---
 
-OPENRECコメントビューアは廃止する予定です。同等機能のある[マルチコメントビューア](https://ryu-s.github.io/app/multicommentviewer)をご利用ください
-
-## 最新版
-[v0.4.17](http://int-main.net/app/OpenrecCommentViewer_v0.4.17.zip)（2018/08/18） チャンネルURLとIDでコメントを取得できるようにした  
+OPENRECコメントビューアの配布は終了しました。同等機能のある[マルチコメントビューア](https://ryu-s.github.io/app/multicommentviewer)をご利用ください

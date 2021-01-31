@@ -10,7 +10,4 @@ sitemap:
     changefreq: 'weekly'	
 ---
 
-ふわっちコメントビューアは廃止する予定です。同等機能のある[マルチコメントビューア](https://ryu-s.github.io/app/multicommentviewer)をご利用ください
-
-## 最新版
-[v0.3.12](http://int-main.net/app/WhowatchCommentViewer_v0.3.12.zip) （2019/03/12）NGワードを含むコメントをスルーするようにした  
+ふわっちコメントビューアコメントビューアの配布は終了しました。同等機能のある[マルチコメントビューア](https://ryu-s.github.io/app/multicommentviewer)をご利用ください
