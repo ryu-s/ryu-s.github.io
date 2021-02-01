@@ -33,11 +33,14 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.48](https://int-main.net/app/MultiCommentViewer_v0.5.48_stable.zip)（2021/01/28）  
+[v0.5.52](https://int-main.net/app/MultiCommentViewer_v0.5.52_stable.zip)（2021/02/02）  
 主な変更点
 - ニコ生の仕様変更に対応
+- YouTubeの仕様変更に対応
+- LINELIVEの仕様変更に対応
 
 ## ベータ版
-[v0.5.50](https://int-main.net/app/MultiCommentViewer_v0.5.50_beta.zip)（2021/01/31）  
+[v0.5.52](https://int-main.net/app/MultiCommentViewer_v0.5.52_beta.zip)（2021/02/02）  
 主な変更点
 - YouTubeの仕様変更に対応
+- LINELIVEの仕様変更に対応
