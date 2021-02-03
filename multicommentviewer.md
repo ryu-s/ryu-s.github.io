@@ -33,14 +33,17 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.52](https://int-main.net/app/MultiCommentViewer_v0.5.52_stable.zip)（2021/02/02）  
+[v0.5.55](https://int-main.net/app/MultiCommentViewer_v0.5.55_stable.zip)（2021/02/04）  
 主な変更点
-- ニコ生の仕様変更に対応
-- YouTubeの仕様変更に対応
-- LINELIVEの仕様変更に対応
+- ニコ生で一定時間コメントが無い場合に意図せず切断される不具合を修正
+- ニコ生のエモーションの色変更が反映されない不具合を修正
+- ニコ生のエモーションを表示しないオプションを追加
+- ニコ生のサーバーにアクセスする時に独自のuseragentを設定するようにした
 
 ## ベータ版
-[v0.5.52](https://int-main.net/app/MultiCommentViewer_v0.5.52_beta.zip)（2021/02/02）  
+[v0.5.55](https://int-main.net/app/MultiCommentViewer_v0.5.55_beta.zip)（2021/02/04）  
 主な変更点
-- YouTubeの仕様変更に対応
-- LINELIVEの仕様変更に対応
+- ニコ生で一定時間コメントが無い場合に意図せず切断される不具合を修正
+- ニコ生のエモーションの色変更が反映されない不具合を修正
+- ニコ生のエモーションを表示しないオプションを追加
+- ニコ生のサーバーにアクセスする時に独自のuseragentを設定するようにした
