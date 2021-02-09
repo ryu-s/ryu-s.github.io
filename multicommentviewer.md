@@ -40,4 +40,4 @@ sitemap:
 ## ベータ版
 [v0.5.56](https://int-main.net/app/MultiCommentViewer_v0.5.56_beta.zip)（2021/02/09）  
 主な変更点
-- ニコ生とYouTubeLive関連の機能の微小な修正
+- ニコ生とYouTubeLive関連の機能の軽微な修正
