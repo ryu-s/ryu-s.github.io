@@ -38,6 +38,6 @@ sitemap:
 - ニコ生で＠コテハンが登録されない不具合を修正
 
 ## ベータ版
-[v0.5.56](https://int-main.net/app/MultiCommentViewer_v0.5.56_beta.zip)（2021/02/09）  
+[v0.5.57](https://int-main.net/app/MultiCommentViewer_v0.5.57_beta.zip)（2021/02/11）  
 主な変更点
-- ニコ生とYouTubeLive関連の機能の軽微な修正
+- YouTubeLiveでコメントが無い場合に高頻度でサーバーにアクセスしてしまう不具合を修正
