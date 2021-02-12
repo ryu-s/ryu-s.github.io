@@ -33,9 +33,9 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.5.55](https://int-main.net/app/MultiCommentViewer_v0.5.55_stable.zip)（2021/02/05）  
+[v0.5.57](https://int-main.net/app/MultiCommentViewer_v0.5.57_stable.zip)（2021/02/13）  
 主な変更点
-- ニコ生で＠コテハンが登録されない不具合を修正
+- YouTubeLiveでコメントが無い場合に高頻度でサーバーにアクセスしてしまう不具合を修正
 
 ## ベータ版
 [v0.5.57](https://int-main.net/app/MultiCommentViewer_v0.5.57_beta.zip)（2021/02/11）  
