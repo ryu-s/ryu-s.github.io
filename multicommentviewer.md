@@ -38,7 +38,6 @@ sitemap:
 - YouTubeLiveでコメントが無い場合に高頻度でサーバーにアクセスしてしまう不具合を修正
 
 ## ベータ版
-[v0.6.1](https://int-main.net/app/MultiCommentViewer_v0.6.1_beta.zip)（2021/02/16）  
+[v0.6.2](https://int-main.net/app/MultiCommentViewer_v0.6.2_beta.zip)（2021/02/20）  
 主な変更点
-- YouTubeLiveのget_live_chatでエラーが返ってきた場合の処理を追加
-- LINELIVEの仕様変更に対応
+- YouTubeLiveのスーパーチャットの金額が棒読みちゃんに読んでもらえない不具合を修正
