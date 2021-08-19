@@ -33,16 +33,11 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.6.3](https://int-main.net/app/MultiCommentViewer_v0.6.3_stable.zip)（2021/03/02）  
+[v0.6.5](https://int-main.net/app/MultiCommentViewer_v0.6.5_stable.zip)（2021/08/19）  
 主な変更点
-- YouTubeLiveのsuperchatの金額が棒読みちゃんに読まれなくなっていた不具合を修正
-- LINELIVEのメタデータ取得処理のバグを修正
-- 予約管理プラグインで呼び出しを行ってもYouTubeLiveに呼び出しコメントが投稿されない不具合を修正
-- OPENRECのプレミアム会員だけが読み上げられない不具合を修正
+- YouTubeLiveの仕様変更に対応
 
 ## ベータ版
-[v0.6.3](https://int-main.net/app/MultiCommentViewer_v0.6.3_beta.zip)（2021/03/02）  
+[v0.6.5](https://int-main.net/app/MultiCommentViewer_v0.6.5_beta.zip)（2021/08/19）  
 主な変更点
-- LINELIVEのメタデータ取得処理のバグを修正
-- 予約管理プラグインで呼び出しを行ってもYouTubeLiveに呼び出しコメントが投稿されない不具合を修正
-- OPENRECのプレミアム会員だけが読み上げられない不具合を修正
+- YouTubeLiveの仕様変更に対応
