@@ -38,7 +38,7 @@ sitemap:
 - Mildomのコメントを取得できない不具合を修正
 
 ## ベータ版
-[v0.6.12](https://int-main.net/app/MultiCommentViewer_v0.6.12_beta.zip)（2021/11/09）  
+[v0.6.13](https://int-main.net/app/MultiCommentViewer_v0.6.13_beta.zip)（2021/11/10）  
 主な変更点
 - ミクチャに対応
 - YouTubeLiveの仕様変更に対応
