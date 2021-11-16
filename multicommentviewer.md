@@ -33,12 +33,13 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.6.11](https://int-main.net/app/MultiCommentViewer_v0.6.11_stable.zip)（2021/09/04）  
+[v0.6.14](https://int-main.net/app/MultiCommentViewer_v0.6.14_stable.zip)（2021/11/17）  
 主な変更点
-- Mildomのコメントを取得できない不具合を修正
+- ミクチャに対応
+- YouTubeLiveの仕様変更に対応
 
 ## ベータ版
-[v0.6.13](https://int-main.net/app/MultiCommentViewer_v0.6.13_beta.zip)（2021/11/10）  
+[v0.6.14](https://int-main.net/app/MultiCommentViewer_v0.6.14_beta.zip)（2021/11/12）  
 主な変更点
 - ミクチャに対応
 - YouTubeLiveの仕様変更に対応
