@@ -37,6 +37,7 @@ sitemap:
 - YouTubeLiveの仕様変更に対応
 
 ## ベータ版
-[v0.6.15](https://int-main.net/app/MultiCommentViewer_v0.6.15_beta.zip)（2021/11/23）  
+[v0.6.16](https://int-main.net/app/MultiCommentViewer_v0.6.16_beta.zip)（2021/11/23）  
 主な変更点
 - ニコ生の仕様変更に対応
+- YouTubeLiveの絵文字を棒読みちゃんに読ませる際の挙動を以前の実装に近づけたつもり
