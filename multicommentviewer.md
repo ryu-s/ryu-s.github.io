@@ -24,9 +24,7 @@ sitemap:
 - SHOWROOM
 - Mixer
 - Mildom
-
-また、今後以下のサイトも対応予定です
-- BIGOLIVE
+- ミクチャ
 
 導入方法は[こちら](https://github.com/CommentViewerCollection/MultiCommentViewer/wiki/%E5%B0%8E%E5%85%A5%E6%89%8B%E9%A0%86)から  
   
@@ -39,7 +37,6 @@ sitemap:
 - YouTubeLiveの仕様変更に対応
 
 ## ベータ版
-[v0.6.14](https://int-main.net/app/MultiCommentViewer_v0.6.14_beta.zip)（2021/11/12）  
+[v0.6.15](https://int-main.net/app/MultiCommentViewer_v0.6.15_beta.zip)（2021/11/23）  
 主な変更点
-- ミクチャに対応
-- YouTubeLiveの仕様変更に対応
+- ニコ生の仕様変更に対応
