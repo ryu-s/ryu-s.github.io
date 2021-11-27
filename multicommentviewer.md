@@ -31,10 +31,10 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.6.14](https://int-main.net/app/MultiCommentViewer_v0.6.14_stable.zip)（2021/11/17）  
+[v0.6.16](https://int-main.net/app/MultiCommentViewer_v0.6.16_stable.zip)（2021/11/27）  
 主な変更点
-- ミクチャに対応
-- YouTubeLiveの仕様変更に対応
+- ニコ生の仕様変更に対応
+- YouTubeLiveの絵文字を棒読みちゃんに読ませる際の挙動を以前の実装に近づけたつもり
 
 ## ベータ版
 [v0.6.16](https://int-main.net/app/MultiCommentViewer_v0.6.16_beta.zip)（2021/11/23）  
