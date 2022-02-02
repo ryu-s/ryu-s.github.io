@@ -31,9 +31,9 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.6.17](https://int-main.net/app/MultiCommentViewer_v0.6.17_stable.zip)（2021/12/12）  
+[v0.6.18](https://int-main.net/app/MultiCommentViewer_v0.6.18_stable.zip)（2022/02/02）  
 主な変更点
-- Chromeの仕様変更に対応
+- Mildomの仕様変更に対応
 
 ## ベータ版
 [v0.6.18](https://int-main.net/app/MultiCommentViewer_v0.6.18_beta.zip)（2022/02/02）  
