@@ -36,7 +36,7 @@ sitemap:
 - Mildomの仕様変更に対応
 
 ## ベータ版
-[v0.6.19](https://int-main.net/app/MultiCommentViewer_v0.6.19_beta.zip)（2022/02/04）  
+[v0.6.20](https://int-main.net/app/MultiCommentViewer_v0.6.20_beta.zip)（2022/02/04）  
 主な変更点
 - MildomのスタンプIDを棒読みちゃんに読んでもらえるようにした
 - Mildomのギフトを棒読みちゃんに読んでもらえるようにした
