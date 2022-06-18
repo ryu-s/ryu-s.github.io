@@ -20,9 +20,7 @@ sitemap:
 - LINELIVE
 - ふわっち
 - Mirrativ
-- Periscope
 - SHOWROOM
-- Mixer
 - Mildom
 - ミクチャ
 
