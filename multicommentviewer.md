@@ -37,7 +37,8 @@ sitemap:
 - Mildomのギフトを棒読みちゃんに読んでもらえるようにした
 
 ## ベータ版
-[v0.6.21](https://int-main.net/app/MultiCommentViewer_v0.6.21_beta.zip)（2022/06/17）  
+[v0.6.22](https://int-main.net/app/MultiCommentViewer_v0.6.22_beta.zip)（2022/06/18）  
 主な変更点
 - LINELIVEの仕様変更に対応
 - YouTubeLiveの再接続処理を改良
+- SHOWROOMの仕様変更に対応
