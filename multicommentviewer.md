@@ -29,10 +29,11 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.6.20](https://int-main.net/app/MultiCommentViewer_v0.6.20_stable.zip)（2022/05/03）  
+[v0.6.23](https://int-main.net/app/MultiCommentViewer_v0.6.23_stable.zip)（2022/06/27）  
 主な変更点
-- MildomのスタンプIDを棒読みちゃんに読んでもらえるようにした
-- Mildomのギフトを棒読みちゃんに読んでもらえるようにした
+- LINELIVEの仕様変更に対応
+- YouTubeLiveの再接続処理を改良
+- SHOWROOMの仕様変更に対応
 
 ## ベータ版
 [v0.6.23](https://int-main.net/app/MultiCommentViewer_v0.6.23_beta.zip)（2022/06/21）  
