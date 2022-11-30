@@ -36,8 +36,6 @@ sitemap:
 - SHOWROOMの仕様変更に対応
 
 ## ベータ版
-[v0.6.23](https://int-main.net/app/MultiCommentViewer_v0.6.23_beta.zip)（2022/06/21）  
+[v0.6.24](https://int-main.net/app/MultiCommentViewer_v0.6.24_beta.zip)（2022/12/01）  
 主な変更点
-- LINELIVEの仕様変更に対応
-- YouTubeLiveの再接続処理を改良
-- SHOWROOMの仕様変更に対応
+- YouTubeLiveの仕様変更に対応
