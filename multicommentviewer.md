@@ -35,7 +35,6 @@ sitemap:
 - YouTubeLiveでcontinuationが送られてこなかった場合に配信中であれば再接続するようにした
 
 ## ベータ版
-[v0.6.26](https://int-main.net/app/MultiCommentViewer_v0.6.26_beta.zip)（2023/01/19）  
+[v0.6.27](https://int-main.net/app/MultiCommentViewer_v0.6.27_beta.zip)（2023/02/02）  
 主な変更点
-- YouTube StudioのURLに対応
-- YouTubeLiveでcontinuationが送られてこなかった場合に配信中であれば再接続するようにした
+- YouTubeLiveの対応URLを追加
