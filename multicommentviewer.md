@@ -29,13 +29,13 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.6.25](https://int-main.net/app/MultiCommentViewer_v0.6.25_stable.zip)（2022/12/08）  
+[v0.6.26](https://int-main.net/app/MultiCommentViewer_v0.6.26_stable.zip)（2023/02/01）  
 主な変更点
-- YouTubeLiveの仕様変更に対応
-- bugfix
+- YouTube StudioのURLに対応
+- YouTubeLiveでcontinuationが送られてこなかった場合に配信中であれば再接続するようにした
 
 ## ベータ版
-[v0.6.25](https://int-main.net/app/MultiCommentViewer_v0.6.25_beta.zip)（2022/12/08）  
+[v0.6.26](https://int-main.net/app/MultiCommentViewer_v0.6.26_beta.zip)（2023/01/19）  
 主な変更点
-- YouTubeLiveの仕様変更に対応
-- bugfix
+- YouTube StudioのURLに対応
+- YouTubeLiveでcontinuationが送られてこなかった場合に配信中であれば再接続するようにした
