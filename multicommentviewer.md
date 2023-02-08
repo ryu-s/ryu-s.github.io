@@ -36,6 +36,7 @@ sitemap:
 - YouTubeLiveの対応URLを追加
 
 ## ベータ版
-[v0.6.27](https://int-main.net/app/MultiCommentViewer_v0.6.27_beta.zip)（2023/02/02）  
+[v0.6.28](https://int-main.net/app/MultiCommentViewer_v0.6.28_beta.zip)（2023/02/08）  
 主な変更点
-- YouTubeLiveの対応URLを追加
+- YouTubeLiveのSuper Stickerに対応
+- 「～のメンバーシップギフトを贈りました」メッセージに対応
