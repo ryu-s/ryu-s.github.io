@@ -35,7 +35,6 @@ sitemap:
 - 「～のメンバーシップギフトを贈りました」メッセージに対応
 
 ## ベータ版
-[v0.6.28](https://int-main.net/app/MultiCommentViewer_v0.6.28_beta.zip)（2023/02/08）  
+[v0.6.29](https://int-main.net/app/MultiCommentViewer_v0.6.29_beta.zip)（2023/02/23）  
 主な変更点
-- YouTubeLiveのSuper Stickerに対応
-- 「～のメンバーシップギフトを贈りました」メッセージに対応
+- ツイキャスの仕様変更に対応
