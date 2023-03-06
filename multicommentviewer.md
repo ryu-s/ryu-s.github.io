@@ -29,12 +29,11 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.6.28](https://int-main.net/app/MultiCommentViewer_v0.6.28_stable.zip)（2023/02/16）  
+[v0.6.30](https://int-main.net/app/MultiCommentViewer_v0.6.30_stable.zip)（2023/03/06）  
 主な変更点
-- YouTubeLiveのSuper Stickerに対応
-- 「～のメンバーシップギフトを贈りました」メッセージに対応
+- ツイキャスで再接続が正常に機能しない不具合を修正したつもり
 
 ## ベータ版
-[v0.6.29](https://int-main.net/app/MultiCommentViewer_v0.6.29_beta.zip)（2023/02/23）  
+[v0.6.30](https://int-main.net/app/MultiCommentViewer_v0.6.30_beta.zip)（2023/03/06）  
 主な変更点
-- ツイキャスの仕様変更に対応
+- ツイキャスで再接続が正常に機能しない不具合を修正したつもり
