@@ -29,11 +29,11 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.6.30](https://int-main.net/app/MultiCommentViewer_v0.6.30_stable.zip)（2023/03/06）  
+[v0.6.31](https://int-main.net/app/MultiCommentViewer_v0.6.31_stable.zip)（2023/05/19）  
 主な変更点
-- ツイキャスで再接続が正常に機能しない不具合を修正したつもり
+- ツイキャスの仕様変更に対応
 
 ## ベータ版
-[v0.6.30](https://int-main.net/app/MultiCommentViewer_v0.6.30_beta.zip)（2023/03/06）  
+[v0.6.31](https://int-main.net/app/MultiCommentViewer_v0.6.31_beta.zip)（2023/05/07）  
 主な変更点
-- ツイキャスで再接続が正常に機能しない不具合を修正したつもり
+- ツイキャスの仕様変更に対応
