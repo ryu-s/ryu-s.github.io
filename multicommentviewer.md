@@ -29,11 +29,11 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.6.31](https://int-main.net/app/MultiCommentViewer_v0.6.31_stable.zip)（2023/05/19）  
+[v0.6.32](https://int-main.net/app/MultiCommentViewer_v0.6.32_stable.zip)（2023/07/29）  
 主な変更点
-- ツイキャスの仕様変更に対応
+- YouTubeLiveのユーザーバッジが表示されなくなっていた不具合を修正
 
 ## ベータ版
-[v0.6.31](https://int-main.net/app/MultiCommentViewer_v0.6.31_beta.zip)（2023/05/07）  
+[v0.6.32](https://int-main.net/app/MultiCommentViewer_v0.6.32_beta.zip)（2023/07/29）  
 主な変更点
-- ツイキャスの仕様変更に対応
+- YouTubeLiveのユーザーバッジが表示されなくなっていた不具合を修正
