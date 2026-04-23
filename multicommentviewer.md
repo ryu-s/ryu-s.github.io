@@ -15,14 +15,10 @@ sitemap:
 - YouTubeLive
 - Twitch
 - ニコ生
-- Twicas
+- ツイキャス
 - OPENREC
-- LINELIVE
 - ふわっち
-- Mirrativ
-- SHOWROOM
-- Mildom
-- ミクチャ
+- Kick
 
 導入方法は[こちら](https://github.com/CommentViewerCollection/MultiCommentViewer/wiki/%E5%B0%8E%E5%85%A5%E6%89%8B%E9%A0%86)から  
   
@@ -34,6 +30,7 @@ sitemap:
 - ニコ生のなふだ機能に対応
 
 ## ベータ版
-[v0.6.34](https://int-main.net/app/MultiCommentViewer_v0.6.33_beta.zip)（2023/09/10）  
+[インストーラ](https://int-main.net/api/mcv/installer/0.8.3/beta/download) (2026/04/24)  
+[v0.8.3](http://int-main.net/app/MultiCommentViewer_v0.8.3_beta.zip)（2026/04/24）  
 主な変更点
-- ニコ生のなふだ機能に対応
+- 全面的に書き換えた
