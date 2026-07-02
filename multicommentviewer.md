@@ -30,7 +30,7 @@ sitemap:
 - ニコ生のなふだ機能に対応
 
 ## ベータ版
-[インストーラ(v0.8.8)](https://int-main.net/api/mcv/installer/0.8.8/beta/download) (2026/06/30)  
-[exeファイル(v0.8.8)](http://int-main.net/app/MultiCommentViewer_v0.8.8_beta.zip)（2026/06/30）  
+[インストーラ(v0.8.10)](https://int-main.net/api/mcv/installer/0.8.10/beta/download) (2026/07/02)  
+[exeファイル(v0.8.10)](http://int-main.net/app/MultiCommentViewer_v0.8.10_beta.zip)（2026/07/02）  
 主な変更点
 - 全面的に書き換えた
