@@ -25,12 +25,12 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.6.34](https://int-main.net/app/MultiCommentViewer_v0.6.34_stable.zip)（2023/09/10）  
+[v0.8.16](https://int-main.net/app/MultiCommentViewer_v0.8.16_stable.zip)（2026/07/17）  
 主な変更点
-- ニコ生のなふだ機能に対応
+- 全面的に書き換えた
 
 ## ベータ版
 [インストーラ(v0.8.16)](https://int-main.net/api/mcv/installer/0.8.16/beta/download) (2026/07/16)  
-[exeファイル(v0.8.16)](http://int-main.net/app/MultiCommentViewer_v0.8.16_beta.zip)（2026/07/16）  
+[exeファイル(v0.8.16)(http://int-main.net/app/MultiCommentViewer_v0.8.16_beta.zip)（2026/07/16）  
 主な変更点
 - 全面的に書き換えた
