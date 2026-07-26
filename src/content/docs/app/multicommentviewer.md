@@ -33,7 +33,7 @@ description: 色んな配信サイトのコメントを取得できるコメン�
 ## ベータ版
 
 [インストーラ(v0.8.19)](https://int-main.net/api/mcv/installer/0.8.19/beta/download) (2026/07/26)
-[exeファイル(v0.8.19)](http://int-main.net/app/MultiCommentViewer_v0.8.19_beta.zip)（2026/07/26）
+[exeファイル(v0.8.19)](https://int-main.net/app/MultiCommentViewer_v0.8.19_beta.zip)（2026/07/26）
 
 主な変更点
 
