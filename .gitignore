@@ -1,5 +1,3 @@
-_site/
-Gemfile.lock
-.sass-cache
-*.gem
-*.gemspec
+node_modules/
+dist/
+.astro/

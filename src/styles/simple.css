@@ -1,0 +1,24 @@
+/* 旧サイト(RLStevenson テーマ)のシンプルな雰囲気に寄せるための最小限のカスタムスタイル */
+
+:root {
+	--sl-color-accent-low: #f1ece5;
+	--sl-color-accent: #a9895a;
+	--sl-color-accent-high: #5c4a30;
+}
+
+:root[data-theme='dark'] {
+	--sl-color-accent-low: #3a2f22;
+	--sl-color-accent: #cbab7c;
+	--sl-color-accent-high: #f2e9db;
+}
+
+/* 右側の「このページの内容」パネルは tableOfContents:false で非表示済みだが、
+   念のため余白も詰めてシンプルな2カラムに寄せる */
+.right-sidebar-panel {
+	display: none;
+}
+
+/* ページ下部の余計な装飾(著作権バッジ等)を削る */
+.right-sidebar {
+	display: none;
+}

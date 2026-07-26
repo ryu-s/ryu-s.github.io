@@ -1,0 +1,6 @@
+---
+title: OPENRECコメントビューア
+description: OPENREC.tvのコメントビューアです
+---
+
+OPENRECコメントビューアの配布は終了しました。同等機能のある[マルチコメントビューア](/app/multicommentviewer/)をご利用ください
