@@ -25,7 +25,8 @@ sitemap:
 バグを見つけたり、追加して欲しい機能があったらTwitter（[@kv510k](https://twitter.com/kv510k)）にリプかDMしてください。時間がある時に対応します。  
 
 ## 安定版
-[v0.8.19](https://int-main.net/app/MultiCommentViewer_v0.8.19_stable.zip)（2026/07/26）  
+[インストーラ(v0.8.19)](https://int-main.net/api/mcv/installer/0.8.19/stable/download) (2026/07/26)  
+[exeファイル(v0.8.19)](https://int-main.net/app/MultiCommentViewer_v0.8.19_stable.zip)（2026/07/26）  
 主な変更点
 - 全面的に書き換えた
 
